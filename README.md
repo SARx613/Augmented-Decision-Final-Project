@@ -98,7 +98,16 @@ We compare the final model against two baselines:
 ├── data/
 │   ├── data.csv                 # the dataset
 │   └── README.md                # dataset description
+├── bankruptcy_prediction.ipynb  # the analysis
+├── requirements.txt             # Python dependencies
 └── README.md
+```
+
+To run the notebook:
+
+```bash
+uv venv .venv && uv pip install -r requirements.txt
+.venv/bin/jupyter nbconvert --to notebook --execute --inplace bankruptcy_prediction.ipynb
 ```
 
 ---
