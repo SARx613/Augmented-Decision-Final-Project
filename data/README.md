@@ -110,3 +110,12 @@ X92	Net Income-Excluding Disposal Gain or Loss Growth
 X93	Total Asset Growth
 X94	Total Equity Growth
 X95	Return on Total Asset Growth
+
+
+DOI
+10.24432/C5004D
+
+License
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
