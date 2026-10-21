@@ -1,0 +1,2281 @@
+fit_scope,fold,C,feature,cleanup_status,duplicate_of,standardized_coefficient,selected
+cv_training,1,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,1,0.01,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,1,0.01,ROA(B) before interest and depreciation after tax,retained,,-0.13760863222474265,True
+cv_training,1,0.01,Operating Gross Margin,retained,,0.0,False
+cv_training,1,0.01,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,1,0.01,Operating Profit Rate,retained,,0.0,False
+cv_training,1,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,1,0.01,After-tax net Interest Rate,retained,,0.0,False
+cv_training,1,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,1,0.01,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,1,0.01,Operating Expense Rate,retained,,0.0,False
+cv_training,1,0.01,Research and development expense rate,retained,,0.0,False
+cv_training,1,0.01,Cash flow rate,retained,,0.0,False
+cv_training,1,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,1,0.01,Tax rate (A),retained,,0.0,False
+cv_training,1,0.01,Net Value Per Share (B),retained,,0.0,False
+cv_training,1,0.01,Net Value Per Share (A),retained,,0.0,False
+cv_training,1,0.01,Net Value Per Share (C),retained,,0.0,False
+cv_training,1,0.01,Persistent EPS in the Last Four Seasons,retained,,0.0,False
+cv_training,1,0.01,Cash Flow Per Share,retained,,0.0,False
+cv_training,1,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,1,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,1,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,1,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Total Asset Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Net Value Growth Rate,retained,,0.0,False
+cv_training,1,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,1,0.01,Cash Reinvestment %,retained,,0.0,False
+cv_training,1,0.01,Current Ratio,retained,,0.0,False
+cv_training,1,0.01,Quick Ratio,retained,,0.0,False
+cv_training,1,0.01,Interest Expense Ratio,retained,,0.0,False
+cv_training,1,0.01,Total debt/Total net worth,retained,,0.0,False
+cv_training,1,0.01,Debt ratio %,retained,,0.20260628923057253,True
+cv_training,1,0.01,Net worth/Assets,retained,,-0.20260628923057236,True
+cv_training,1,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,1,0.01,Borrowing dependency,retained,,0.012858040123753765,True
+cv_training,1,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,1,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,1,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,1,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,1,0.01,Total Asset Turnover,retained,,0.0,False
+cv_training,1,0.01,Accounts Receivable Turnover,retained,,0.0,False
+cv_training,1,0.01,Average Collection Days,retained,,0.0,False
+cv_training,1,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,1,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+cv_training,1,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,1,0.01,Revenue per person,retained,,0.0,False
+cv_training,1,0.01,Operating profit per person,retained,,0.0,False
+cv_training,1,0.01,Allocation rate per person,retained,,0.0,False
+cv_training,1,0.01,Working Capital to Total Assets,retained,,0.0,False
+cv_training,1,0.01,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,1,0.01,Current Assets/Total Assets,retained,,0.0,False
+cv_training,1,0.01,Cash/Total Assets,retained,,0.0,False
+cv_training,1,0.01,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,1,0.01,Cash/Current Liability,retained,,0.0,False
+cv_training,1,0.01,Current Liability to Assets,retained,,0.0,False
+cv_training,1,0.01,Operating Funds to Liability,retained,,0.0,False
+cv_training,1,0.01,Inventory/Working Capital,retained,,0.0,False
+cv_training,1,0.01,Inventory/Current Liability,retained,,0.0,False
+cv_training,1,0.01,Current Liabilities/Liability,retained,,0.0,False
+cv_training,1,0.01,Working Capital/Equity,retained,,0.0,False
+cv_training,1,0.01,Current Liabilities/Equity,retained,,0.0,False
+cv_training,1,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,1,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,1,0.01,Total income/Total expense,retained,,0.0,False
+cv_training,1,0.01,Total expense/Assets,retained,,0.0,False
+cv_training,1,0.01,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,1,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,1,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,1,0.01,Cash Turnover Rate,retained,,0.0,False
+cv_training,1,0.01,Cash Flow to Sales,retained,,0.0,False
+cv_training,1,0.01,Fixed Assets to Assets,retained,,0.0,False
+cv_training,1,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,1,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,1,0.01,Equity to Long-term Liability,retained,,0.0,False
+cv_training,1,0.01,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,1,0.01,Cash Flow to Liability,retained,,0.0,False
+cv_training,1,0.01,CFO to Assets,retained,,0.0,False
+cv_training,1,0.01,Cash Flow to Equity,retained,,0.0,False
+cv_training,1,0.01,Current Liability to Current Assets,retained,,0.0,False
+cv_training,1,0.01,Liability-Assets Flag,retained,,0.0,False
+cv_training,1,0.01,Net Income to Total Assets,retained,,-0.3127028773231681,True
+cv_training,1,0.01,Total assets to GNP price,retained,,0.0,False
+cv_training,1,0.01,No-credit Interval,retained,,0.0,False
+cv_training,1,0.01,Gross Profit to Sales,retained,,0.0,False
+cv_training,1,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,1,0.01,Liability to Equity,retained,,0.0,False
+cv_training,1,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,1,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,1,0.01,Net Income Flag,constant,,,False
+cv_training,1,0.01,Equity to Liability,retained,,0.0,False
+cv_training,1,0.1,ROA(C) before interest and depreciation before interest,retained,,-0.14891489317411413,True
+cv_training,1,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,1,0.1,ROA(B) before interest and depreciation after tax,retained,,-0.46708985597354374,True
+cv_training,1,0.1,Operating Gross Margin,retained,,0.0,False
+cv_training,1,0.1,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,1,0.1,Operating Profit Rate,retained,,0.0,False
+cv_training,1,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,1,0.1,After-tax net Interest Rate,retained,,0.0,False
+cv_training,1,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,1,0.1,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,1,0.1,Operating Expense Rate,retained,,0.0,False
+cv_training,1,0.1,Research and development expense rate,retained,,0.0,False
+cv_training,1,0.1,Cash flow rate,retained,,-0.0011586256325265732,True
+cv_training,1,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,1,0.1,Tax rate (A),retained,,-0.09329994156789372,True
+cv_training,1,0.1,Net Value Per Share (B),retained,,-0.19516728731263666,True
+cv_training,1,0.1,Net Value Per Share (A),retained,,-0.10591837247340341,True
+cv_training,1,0.1,Net Value Per Share (C),retained,,-0.04412941459847631,True
+cv_training,1,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.34493269188585984,True
+cv_training,1,0.1,Cash Flow Per Share,retained,,0.0,False
+cv_training,1,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,1,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,1,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,1,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.08528552038118982,True
+cv_training,1,0.1,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.1,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,1,0.1,Continuous Net Profit Growth Rate,retained,,0.02200948892525559,True
+cv_training,1,0.1,Total Asset Growth Rate,retained,,0.0,False
+cv_training,1,0.1,Net Value Growth Rate,retained,,0.0,False
+cv_training,1,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,1,0.1,Cash Reinvestment %,retained,,0.12228313861499775,True
+cv_training,1,0.1,Current Ratio,retained,,0.0,False
+cv_training,1,0.1,Quick Ratio,retained,,0.0037131695768574217,True
+cv_training,1,0.1,Interest Expense Ratio,retained,,0.005029097041366882,True
+cv_training,1,0.1,Total debt/Total net worth,retained,,0.08661182208154881,True
+cv_training,1,0.1,Debt ratio %,retained,,0.6060633372272157,True
+cv_training,1,0.1,Net worth/Assets,retained,,-0.6060633372271522,True
+cv_training,1,0.1,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,1,0.1,Borrowing dependency,retained,,0.029977691256613016,True
+cv_training,1,0.1,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,1,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,1,0.1,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,1,0.1,Inventory and accounts receivable/Net value,retained,,-0.058323750323542284,True
+cv_training,1,0.1,Total Asset Turnover,retained,,-0.09243027143091978,True
+cv_training,1,0.1,Accounts Receivable Turnover,retained,,-0.11139891835436432,True
+cv_training,1,0.1,Average Collection Days,retained,,0.0,False
+cv_training,1,0.1,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,1,0.1,Fixed Assets Turnover Frequency,retained,,0.1194975131076257,True
+cv_training,1,0.1,Net Worth Turnover Rate (times),retained,,-0.27748779408339647,True
+cv_training,1,0.1,Revenue per person,retained,,-0.014749138030147924,True
+cv_training,1,0.1,Operating profit per person,retained,,-0.0011395038355738105,True
+cv_training,1,0.1,Allocation rate per person,retained,,0.0,False
+cv_training,1,0.1,Working Capital to Total Assets,retained,,0.0,False
+cv_training,1,0.1,Quick Assets/Total Assets,retained,,-0.023110067089303025,True
+cv_training,1,0.1,Current Assets/Total Assets,retained,,0.0,False
+cv_training,1,0.1,Cash/Total Assets,retained,,-0.09154778282666928,True
+cv_training,1,0.1,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,1,0.1,Cash/Current Liability,retained,,0.049932800618839125,True
+cv_training,1,0.1,Current Liability to Assets,retained,,0.019156085620202625,True
+cv_training,1,0.1,Operating Funds to Liability,retained,,0.0,False
+cv_training,1,0.1,Inventory/Working Capital,retained,,0.0,False
+cv_training,1,0.1,Inventory/Current Liability,retained,,0.0,False
+cv_training,1,0.1,Current Liabilities/Liability,retained,,0.0,False
+cv_training,1,0.1,Working Capital/Equity,retained,,0.0,False
+cv_training,1,0.1,Current Liabilities/Equity,retained,,0.0,False
+cv_training,1,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,1,0.1,Retained Earnings to Total Assets,retained,,0.04762335398794073,True
+cv_training,1,0.1,Total income/Total expense,retained,,0.0,False
+cv_training,1,0.1,Total expense/Assets,retained,,0.0,False
+cv_training,1,0.1,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,1,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,1,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,1,0.1,Cash Turnover Rate,retained,,-0.07961441127302438,True
+cv_training,1,0.1,Cash Flow to Sales,retained,,0.0,False
+cv_training,1,0.1,Fixed Assets to Assets,retained,,0.0,False
+cv_training,1,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,1,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,1,0.1,Equity to Long-term Liability,retained,,0.0,False
+cv_training,1,0.1,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,1,0.1,Cash Flow to Liability,retained,,-0.20407312546134262,True
+cv_training,1,0.1,CFO to Assets,retained,,0.0,False
+cv_training,1,0.1,Cash Flow to Equity,retained,,-0.03925701908948385,True
+cv_training,1,0.1,Current Liability to Current Assets,retained,,0.0,False
+cv_training,1,0.1,Liability-Assets Flag,retained,,0.0,False
+cv_training,1,0.1,Net Income to Total Assets,retained,,0.0,False
+cv_training,1,0.1,Total assets to GNP price,retained,,0.0,False
+cv_training,1,0.1,No-credit Interval,retained,,0.0,False
+cv_training,1,0.1,Gross Profit to Sales,retained,,0.0,False
+cv_training,1,0.1,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,1,0.1,Liability to Equity,retained,,0.0,False
+cv_training,1,0.1,Degree of Financial Leverage (DFL),retained,,0.035962786961502374,True
+cv_training,1,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,1,0.1,Net Income Flag,constant,,,False
+cv_training,1,0.1,Equity to Liability,retained,,0.0,False
+cv_training,1,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.2420599617138539,True
+cv_training,1,1.0,ROA(A) before interest and % after tax,retained,,0.04010679021970289,True
+cv_training,1,1.0,ROA(B) before interest and depreciation after tax,retained,,-0.5984114744574939,True
+cv_training,1,1.0,Operating Gross Margin,retained,,0.015438876172888824,True
+cv_training,1,1.0,Realized Sales Gross Margin,retained,,0.020612382526093403,True
+cv_training,1,1.0,Operating Profit Rate,retained,,0.0,False
+cv_training,1,1.0,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,1,1.0,After-tax net Interest Rate,retained,,0.0,False
+cv_training,1,1.0,Non-industry income and expenditure/revenue,retained,,-0.15236245747884541,True
+cv_training,1,1.0,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,1,1.0,Operating Expense Rate,retained,,0.0,False
+cv_training,1,1.0,Research and development expense rate,retained,,0.0,False
+cv_training,1,1.0,Cash flow rate,retained,,-0.16898431079482013,True
+cv_training,1,1.0,Interest-bearing debt interest rate,retained,,0.05229088612379805,True
+cv_training,1,1.0,Tax rate (A),retained,,-0.16130187553421557,True
+cv_training,1,1.0,Net Value Per Share (B),retained,,-0.32516982868870986,True
+cv_training,1,1.0,Net Value Per Share (A),retained,,-0.16390215722486223,True
+cv_training,1,1.0,Net Value Per Share (C),retained,,-0.0724549284973766,True
+cv_training,1,1.0,Persistent EPS in the Last Four Seasons,retained,,-0.6860833879798092,True
+cv_training,1,1.0,Cash Flow Per Share,retained,,-0.12226495686853431,True
+cv_training,1,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,1,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.21499378365926303,True
+cv_training,1,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.18902603087845954,True
+cv_training,1,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.10881042957769577,True
+cv_training,1,1.0,Operating Profit Growth Rate,retained,,-0.02914745958517584,True
+cv_training,1,1.0,After-tax Net Profit Growth Rate,retained,,0.010064718991394286,True
+cv_training,1,1.0,Regular Net Profit Growth Rate,retained,,0.09152681628837431,True
+cv_training,1,1.0,Continuous Net Profit Growth Rate,retained,,0.14040200220887658,True
+cv_training,1,1.0,Total Asset Growth Rate,retained,,-0.051162720016071785,True
+cv_training,1,1.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,1,1.0,Total Asset Return Growth Rate Ratio,retained,,0.1422548568363817,True
+cv_training,1,1.0,Cash Reinvestment %,retained,,0.428056643469496,True
+cv_training,1,1.0,Current Ratio,retained,,0.0,False
+cv_training,1,1.0,Quick Ratio,retained,,-0.024233460577904167,True
+cv_training,1,1.0,Interest Expense Ratio,retained,,0.025391566849416868,True
+cv_training,1,1.0,Total debt/Total net worth,retained,,0.20583076665130967,True
+cv_training,1,1.0,Debt ratio %,retained,,0.5985389039146828,True
+cv_training,1,1.0,Net worth/Assets,retained,,-0.5985389039146355,True
+cv_training,1,1.0,Long-term fund suitability ratio (A),retained,,0.08406931220485452,True
+cv_training,1,1.0,Borrowing dependency,retained,,0.7535361792448281,True
+cv_training,1,1.0,Contingent liabilities/Net worth,retained,,0.135369377056395,True
+cv_training,1,1.0,Operating profit/Paid-in capital,retained,,0.28781836758222934,True
+cv_training,1,1.0,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,1,1.0,Inventory and accounts receivable/Net value,retained,,-0.2716902186549951,True
+cv_training,1,1.0,Total Asset Turnover,retained,,0.0,False
+cv_training,1,1.0,Accounts Receivable Turnover,retained,,-0.4532180672707874,True
+cv_training,1,1.0,Average Collection Days,retained,,-0.051035857431184654,True
+cv_training,1,1.0,Inventory Turnover Rate (times),retained,,-0.03749914163993726,True
+cv_training,1,1.0,Fixed Assets Turnover Frequency,retained,,0.17518908484105625,True
+cv_training,1,1.0,Net Worth Turnover Rate (times),retained,,-0.36566038202888046,True
+cv_training,1,1.0,Revenue per person,retained,,-0.08037578430336963,True
+cv_training,1,1.0,Operating profit per person,retained,,-0.12208738633909455,True
+cv_training,1,1.0,Allocation rate per person,retained,,-0.0033161652277493014,True
+cv_training,1,1.0,Working Capital to Total Assets,retained,,0.0,False
+cv_training,1,1.0,Quick Assets/Total Assets,retained,,-0.13423182285725124,True
+cv_training,1,1.0,Current Assets/Total Assets,retained,,0.22862392035342047,True
+cv_training,1,1.0,Cash/Total Assets,retained,,-0.37417465995432436,True
+cv_training,1,1.0,Quick Assets/Current Liability,retained,,-0.034089435959672724,True
+cv_training,1,1.0,Cash/Current Liability,retained,,0.049919771068425316,True
+cv_training,1,1.0,Current Liability to Assets,retained,,0.1750916715817504,True
+cv_training,1,1.0,Operating Funds to Liability,retained,,-0.050008715871958404,True
+cv_training,1,1.0,Inventory/Working Capital,retained,,-0.2504918706594067,True
+cv_training,1,1.0,Inventory/Current Liability,retained,,0.003736533489535868,True
+cv_training,1,1.0,Current Liabilities/Liability,retained,,9.311202678237566e-05,True
+cv_training,1,1.0,Working Capital/Equity,retained,,0.0,False
+cv_training,1,1.0,Current Liabilities/Equity,retained,,-0.1629309081819136,True
+cv_training,1,1.0,Long-term Liability to Current Assets,retained,,0.05081581868212998,True
+cv_training,1,1.0,Retained Earnings to Total Assets,retained,,0.2626431316959599,True
+cv_training,1,1.0,Total income/Total expense,retained,,0.0,False
+cv_training,1,1.0,Total expense/Assets,retained,,0.0,False
+cv_training,1,1.0,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,1,1.0,Quick Asset Turnover Rate,retained,,-0.1090761050672934,True
+cv_training,1,1.0,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,1,1.0,Cash Turnover Rate,retained,,-0.19845016571708532,True
+cv_training,1,1.0,Cash Flow to Sales,retained,,0.0,False
+cv_training,1,1.0,Fixed Assets to Assets,retained,,0.036798178971980414,True
+cv_training,1,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,1,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,1,1.0,Equity to Long-term Liability,retained,,-0.042820156168876126,True
+cv_training,1,1.0,Cash Flow to Total Assets,retained,,-0.1032926358759582,True
+cv_training,1,1.0,Cash Flow to Liability,retained,,-0.25869078313996685,True
+cv_training,1,1.0,CFO to Assets,retained,,-0.18552680517201708,True
+cv_training,1,1.0,Cash Flow to Equity,retained,,-0.015152671063898945,True
+cv_training,1,1.0,Current Liability to Current Assets,retained,,-0.0411097655614864,True
+cv_training,1,1.0,Liability-Assets Flag,retained,,0.0,False
+cv_training,1,1.0,Net Income to Total Assets,retained,,-0.2966822461149848,True
+cv_training,1,1.0,Total assets to GNP price,retained,,0.006948520956457409,True
+cv_training,1,1.0,No-credit Interval,retained,,0.04647813838626085,True
+cv_training,1,1.0,Gross Profit to Sales,retained,,0.015482362753870884,True
+cv_training,1,1.0,Net Income to Stockholder's Equity,retained,,0.352818787227131,True
+cv_training,1,1.0,Liability to Equity,retained,,-0.2053489357052419,True
+cv_training,1,1.0,Degree of Financial Leverage (DFL),retained,,0.058704751484148096,True
+cv_training,1,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0256783383850747,True
+cv_training,1,1.0,Net Income Flag,constant,,,False
+cv_training,1,1.0,Equity to Liability,retained,,-0.22942736974045494,True
+cv_training,1,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.3211428138977537,True
+cv_training,1,10.0,ROA(A) before interest and % after tax,retained,,0.20744414584235993,True
+cv_training,1,10.0,ROA(B) before interest and depreciation after tax,retained,,-0.6623977365438483,True
+cv_training,1,10.0,Operating Gross Margin,retained,,0.01487903276046502,True
+cv_training,1,10.0,Realized Sales Gross Margin,retained,,0.01712022777461863,True
+cv_training,1,10.0,Operating Profit Rate,retained,,0.1076087824494253,True
+cv_training,1,10.0,Pre-tax net Interest Rate,retained,,0.02177209654488785,True
+cv_training,1,10.0,After-tax net Interest Rate,retained,,0.021474211433795878,True
+cv_training,1,10.0,Non-industry income and expenditure/revenue,retained,,-0.30626553883018964,True
+cv_training,1,10.0,Continuous interest rate (after tax),retained,,-0.060899205725756876,True
+cv_training,1,10.0,Operating Expense Rate,retained,,-0.0046030036881627165,True
+cv_training,1,10.0,Research and development expense rate,retained,,0.023162948656268122,True
+cv_training,1,10.0,Cash flow rate,retained,,-0.18484456516634287,True
+cv_training,1,10.0,Interest-bearing debt interest rate,retained,,0.08628950148460125,True
+cv_training,1,10.0,Tax rate (A),retained,,-0.18693887315753052,True
+cv_training,1,10.0,Net Value Per Share (B),retained,,-0.36894912562306054,True
+cv_training,1,10.0,Net Value Per Share (A),retained,,-0.18752871220131087,True
+cv_training,1,10.0,Net Value Per Share (C),retained,,-0.08974220443667465,True
+cv_training,1,10.0,Persistent EPS in the Last Four Seasons,retained,,-0.8836715586914717,True
+cv_training,1,10.0,Cash Flow Per Share,retained,,-0.18889664552089036,True
+cv_training,1,10.0,Revenue Per Share (Yuan ¥),retained,,-0.019983300541612063,True
+cv_training,1,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.2648302998795523,True
+cv_training,1,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.3584914805414158,True
+cv_training,1,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.10752008712651262,True
+cv_training,1,10.0,Operating Profit Growth Rate,retained,,-0.040306039479373265,True
+cv_training,1,10.0,After-tax Net Profit Growth Rate,retained,,0.006422596073100997,True
+cv_training,1,10.0,Regular Net Profit Growth Rate,retained,,0.0947255476726894,True
+cv_training,1,10.0,Continuous Net Profit Growth Rate,retained,,0.17964516888553095,True
+cv_training,1,10.0,Total Asset Growth Rate,retained,,-0.06663946299690944,True
+cv_training,1,10.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,1,10.0,Total Asset Return Growth Rate Ratio,retained,,0.1679236675609229,True
+cv_training,1,10.0,Cash Reinvestment %,retained,,0.5177166377202901,True
+cv_training,1,10.0,Current Ratio,retained,,-0.008963562350712077,True
+cv_training,1,10.0,Quick Ratio,retained,,-0.046774614790361324,True
+cv_training,1,10.0,Interest Expense Ratio,retained,,0.027537522464871435,True
+cv_training,1,10.0,Total debt/Total net worth,retained,,0.26239567656496776,True
+cv_training,1,10.0,Debt ratio %,retained,,0.6173210309379851,True
+cv_training,1,10.0,Net worth/Assets,retained,,-0.6173210309378209,True
+cv_training,1,10.0,Long-term fund suitability ratio (A),retained,,0.11193905949210418,True
+cv_training,1,10.0,Borrowing dependency,retained,,0.9930845417305835,True
+cv_training,1,10.0,Contingent liabilities/Net worth,retained,,0.2385768020134206,True
+cv_training,1,10.0,Operating profit/Paid-in capital,retained,,0.3505360513906034,True
+cv_training,1,10.0,Net profit before tax/Paid-in capital,retained,,0.04168590623380951,True
+cv_training,1,10.0,Inventory and accounts receivable/Net value,retained,,-0.3405990397672958,True
+cv_training,1,10.0,Total Asset Turnover,retained,,0.10269139654502843,True
+cv_training,1,10.0,Accounts Receivable Turnover,retained,,-0.6073299196052457,True
+cv_training,1,10.0,Average Collection Days,retained,,-0.13319549778615294,True
+cv_training,1,10.0,Inventory Turnover Rate (times),retained,,-0.04760198119829215,True
+cv_training,1,10.0,Fixed Assets Turnover Frequency,retained,,0.18534705603087653,True
+cv_training,1,10.0,Net Worth Turnover Rate (times),retained,,-0.41819370819278673,True
+cv_training,1,10.0,Revenue per person,retained,,-0.12914297415838025,True
+cv_training,1,10.0,Operating profit per person,retained,,-0.15245489148836633,True
+cv_training,1,10.0,Allocation rate per person,retained,,-0.06866644930010249,True
+cv_training,1,10.0,Working Capital to Total Assets,retained,,0.07536057582683464,True
+cv_training,1,10.0,Quick Assets/Total Assets,retained,,-0.17407693138959776,True
+cv_training,1,10.0,Current Assets/Total Assets,retained,,0.23483254037169973,True
+cv_training,1,10.0,Cash/Total Assets,retained,,-0.4285764500146481,True
+cv_training,1,10.0,Quick Assets/Current Liability,retained,,-0.07470047911702457,True
+cv_training,1,10.0,Cash/Current Liability,retained,,0.04985024746274567,True
+cv_training,1,10.0,Current Liability to Assets,retained,,0.20559256995951958,True
+cv_training,1,10.0,Operating Funds to Liability,retained,,-0.08793495066848135,True
+cv_training,1,10.0,Inventory/Working Capital,retained,,-0.31299401960502443,True
+cv_training,1,10.0,Inventory/Current Liability,retained,,0.021139573852220497,True
+cv_training,1,10.0,Current Liabilities/Liability,retained,,0.03784713867382467,True
+cv_training,1,10.0,Working Capital/Equity,retained,,0.06400528733637838,True
+cv_training,1,10.0,Current Liabilities/Equity,retained,,-0.25638772521611397,True
+cv_training,1,10.0,Long-term Liability to Current Assets,retained,,0.05684078453154352,True
+cv_training,1,10.0,Retained Earnings to Total Assets,retained,,0.32299433793553745,True
+cv_training,1,10.0,Total income/Total expense,retained,,0.0014447730085568055,True
+cv_training,1,10.0,Total expense/Assets,retained,,-0.0002699230315405422,True
+cv_training,1,10.0,Current Asset Turnover Rate,retained,,-0.010816912157932524,True
+cv_training,1,10.0,Quick Asset Turnover Rate,retained,,-0.13247920759011375,True
+cv_training,1,10.0,Working capitcal Turnover Rate,retained,,0.08250986507165278,True
+cv_training,1,10.0,Cash Turnover Rate,retained,,-0.2105642999001524,True
+cv_training,1,10.0,Cash Flow to Sales,retained,,0.07203101165181802,True
+cv_training,1,10.0,Fixed Assets to Assets,retained,,0.09741948899039998,True
+cv_training,1,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,1,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,1,10.0,Equity to Long-term Liability,retained,,-0.09989721891816115,True
+cv_training,1,10.0,Cash Flow to Total Assets,retained,,-0.08037788926346642,True
+cv_training,1,10.0,Cash Flow to Liability,retained,,-0.3015946464443179,True
+cv_training,1,10.0,CFO to Assets,retained,,-0.22514780693130612,True
+cv_training,1,10.0,Cash Flow to Equity,retained,,-0.06851845787191325,True
+cv_training,1,10.0,Current Liability to Current Assets,retained,,-0.055400510100342665,True
+cv_training,1,10.0,Liability-Assets Flag,retained,,0.17891076390095384,True
+cv_training,1,10.0,Net Income to Total Assets,retained,,-0.40736558823485286,True
+cv_training,1,10.0,Total assets to GNP price,retained,,0.019231684139617126,True
+cv_training,1,10.0,No-credit Interval,retained,,0.06748053071701444,True
+cv_training,1,10.0,Gross Profit to Sales,retained,,0.014921061007994924,True
+cv_training,1,10.0,Net Income to Stockholder's Equity,retained,,0.3874512587851073,True
+cv_training,1,10.0,Liability to Equity,retained,,-0.2872496970435709,True
+cv_training,1,10.0,Degree of Financial Leverage (DFL),retained,,0.06105044807249997,True
+cv_training,1,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.03145769100267086,True
+cv_training,1,10.0,Net Income Flag,constant,,,False
+cv_training,1,10.0,Equity to Liability,retained,,-0.37193307183297447,True
+cv_training,2,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,2,0.01,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,2,0.01,ROA(B) before interest and depreciation after tax,retained,,0.0,False
+cv_training,2,0.01,Operating Gross Margin,retained,,0.0,False
+cv_training,2,0.01,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,2,0.01,Operating Profit Rate,retained,,0.0,False
+cv_training,2,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,2,0.01,After-tax net Interest Rate,retained,,0.0,False
+cv_training,2,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,2,0.01,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,2,0.01,Operating Expense Rate,retained,,0.0,False
+cv_training,2,0.01,Research and development expense rate,retained,,0.0,False
+cv_training,2,0.01,Cash flow rate,retained,,0.0,False
+cv_training,2,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,2,0.01,Tax rate (A),retained,,0.0,False
+cv_training,2,0.01,Net Value Per Share (B),retained,,0.0,False
+cv_training,2,0.01,Net Value Per Share (A),retained,,0.0,False
+cv_training,2,0.01,Net Value Per Share (C),retained,,0.0,False
+cv_training,2,0.01,Persistent EPS in the Last Four Seasons,retained,,-0.013256296824707577,True
+cv_training,2,0.01,Cash Flow Per Share,retained,,0.0,False
+cv_training,2,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,2,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Total Asset Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Net Value Growth Rate,retained,,0.0,False
+cv_training,2,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,2,0.01,Cash Reinvestment %,retained,,0.0,False
+cv_training,2,0.01,Current Ratio,retained,,0.0,False
+cv_training,2,0.01,Quick Ratio,retained,,0.0,False
+cv_training,2,0.01,Interest Expense Ratio,retained,,0.0,False
+cv_training,2,0.01,Total debt/Total net worth,retained,,0.0,False
+cv_training,2,0.01,Debt ratio %,retained,,0.1460327631659102,True
+cv_training,2,0.01,Net worth/Assets,retained,,-0.14603276316592836,True
+cv_training,2,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,2,0.01,Borrowing dependency,retained,,0.01216229122661333,True
+cv_training,2,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,2,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,2,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,2,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,2,0.01,Total Asset Turnover,retained,,0.0,False
+cv_training,2,0.01,Accounts Receivable Turnover,retained,,0.0,False
+cv_training,2,0.01,Average Collection Days,retained,,0.0,False
+cv_training,2,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,2,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+cv_training,2,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,2,0.01,Revenue per person,retained,,0.0,False
+cv_training,2,0.01,Operating profit per person,retained,,0.0,False
+cv_training,2,0.01,Allocation rate per person,retained,,0.0,False
+cv_training,2,0.01,Working Capital to Total Assets,retained,,0.0,False
+cv_training,2,0.01,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,2,0.01,Current Assets/Total Assets,retained,,0.0,False
+cv_training,2,0.01,Cash/Total Assets,retained,,0.0,False
+cv_training,2,0.01,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,2,0.01,Cash/Current Liability,retained,,0.0,False
+cv_training,2,0.01,Current Liability to Assets,retained,,0.0,False
+cv_training,2,0.01,Operating Funds to Liability,retained,,0.0,False
+cv_training,2,0.01,Inventory/Working Capital,retained,,0.0,False
+cv_training,2,0.01,Inventory/Current Liability,retained,,0.0,False
+cv_training,2,0.01,Current Liabilities/Liability,retained,,0.0,False
+cv_training,2,0.01,Working Capital/Equity,retained,,0.0,False
+cv_training,2,0.01,Current Liabilities/Equity,retained,,0.0,False
+cv_training,2,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,2,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,2,0.01,Total income/Total expense,retained,,0.0,False
+cv_training,2,0.01,Total expense/Assets,retained,,0.0,False
+cv_training,2,0.01,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,2,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,2,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,2,0.01,Cash Turnover Rate,retained,,0.0,False
+cv_training,2,0.01,Cash Flow to Sales,retained,,0.0,False
+cv_training,2,0.01,Fixed Assets to Assets,retained,,0.0,False
+cv_training,2,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,2,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,2,0.01,Equity to Long-term Liability,retained,,0.0,False
+cv_training,2,0.01,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,2,0.01,Cash Flow to Liability,retained,,0.0,False
+cv_training,2,0.01,CFO to Assets,retained,,0.0,False
+cv_training,2,0.01,Cash Flow to Equity,retained,,0.0,False
+cv_training,2,0.01,Current Liability to Current Assets,retained,,0.0,False
+cv_training,2,0.01,Liability-Assets Flag,retained,,0.0,False
+cv_training,2,0.01,Net Income to Total Assets,retained,,-0.478454939531688,True
+cv_training,2,0.01,Total assets to GNP price,retained,,0.0,False
+cv_training,2,0.01,No-credit Interval,retained,,0.0,False
+cv_training,2,0.01,Gross Profit to Sales,retained,,0.0,False
+cv_training,2,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,2,0.01,Liability to Equity,retained,,0.0,False
+cv_training,2,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,2,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,2,0.01,Net Income Flag,constant,,,False
+cv_training,2,0.01,Equity to Liability,retained,,0.0,False
+cv_training,2,0.1,ROA(C) before interest and depreciation before interest,retained,,-0.1589238456399342,True
+cv_training,2,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,2,0.1,ROA(B) before interest and depreciation after tax,retained,,0.0,False
+cv_training,2,0.1,Operating Gross Margin,retained,,0.0,False
+cv_training,2,0.1,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,2,0.1,Operating Profit Rate,retained,,0.0,False
+cv_training,2,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,2,0.1,After-tax net Interest Rate,retained,,0.0,False
+cv_training,2,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,2,0.1,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,2,0.1,Operating Expense Rate,retained,,0.0,False
+cv_training,2,0.1,Research and development expense rate,retained,,0.0,False
+cv_training,2,0.1,Cash flow rate,retained,,0.0,False
+cv_training,2,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,2,0.1,Tax rate (A),retained,,0.0,False
+cv_training,2,0.1,Net Value Per Share (B),retained,,-0.02275720066261461,True
+cv_training,2,0.1,Net Value Per Share (A),retained,,-0.01488657753639051,True
+cv_training,2,0.1,Net Value Per Share (C),retained,,0.0,False
+cv_training,2,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.5745559447529645,True
+cv_training,2,0.1,Cash Flow Per Share,retained,,0.0,False
+cv_training,2,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,2,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.09863404708869468,True
+cv_training,2,0.1,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.1,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.1,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,0.1,Total Asset Growth Rate,retained,,0.0,False
+cv_training,2,0.1,Net Value Growth Rate,retained,,0.0,False
+cv_training,2,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,2,0.1,Cash Reinvestment %,retained,,0.0,False
+cv_training,2,0.1,Current Ratio,retained,,0.0,False
+cv_training,2,0.1,Quick Ratio,retained,,-0.020337436583034555,True
+cv_training,2,0.1,Interest Expense Ratio,retained,,0.00039880756884320967,True
+cv_training,2,0.1,Total debt/Total net worth,retained,,0.09616743168457602,True
+cv_training,2,0.1,Debt ratio %,retained,,0.43038680707341237,True
+cv_training,2,0.1,Net worth/Assets,retained,,-0.4303868070734147,True
+cv_training,2,0.1,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,2,0.1,Borrowing dependency,retained,,0.0,False
+cv_training,2,0.1,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,2,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,2,0.1,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,2,0.1,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,2,0.1,Total Asset Turnover,retained,,-0.2562218525880019,True
+cv_training,2,0.1,Accounts Receivable Turnover,retained,,-0.10954677347469872,True
+cv_training,2,0.1,Average Collection Days,retained,,0.0,False
+cv_training,2,0.1,Inventory Turnover Rate (times),retained,,-0.006644419919616194,True
+cv_training,2,0.1,Fixed Assets Turnover Frequency,retained,,0.2647519438131778,True
+cv_training,2,0.1,Net Worth Turnover Rate (times),retained,,-0.05769578000116979,True
+cv_training,2,0.1,Revenue per person,retained,,0.0,False
+cv_training,2,0.1,Operating profit per person,retained,,0.0,False
+cv_training,2,0.1,Allocation rate per person,retained,,0.0,False
+cv_training,2,0.1,Working Capital to Total Assets,retained,,0.0,False
+cv_training,2,0.1,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,2,0.1,Current Assets/Total Assets,retained,,0.0,False
+cv_training,2,0.1,Cash/Total Assets,retained,,-0.29388436409970015,True
+cv_training,2,0.1,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,2,0.1,Cash/Current Liability,retained,,0.07379172071528997,True
+cv_training,2,0.1,Current Liability to Assets,retained,,0.0908743484815734,True
+cv_training,2,0.1,Operating Funds to Liability,retained,,0.0,False
+cv_training,2,0.1,Inventory/Working Capital,retained,,0.0,False
+cv_training,2,0.1,Inventory/Current Liability,retained,,-0.013724883316410162,True
+cv_training,2,0.1,Current Liabilities/Liability,retained,,0.0002862685296278621,True
+cv_training,2,0.1,Working Capital/Equity,retained,,-0.03191520961985836,True
+cv_training,2,0.1,Current Liabilities/Equity,retained,,0.0,False
+cv_training,2,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,2,0.1,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,2,0.1,Total income/Total expense,retained,,0.0,False
+cv_training,2,0.1,Total expense/Assets,retained,,0.0,False
+cv_training,2,0.1,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,2,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,2,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,2,0.1,Cash Turnover Rate,retained,,-0.10773394895718051,True
+cv_training,2,0.1,Cash Flow to Sales,retained,,0.0,False
+cv_training,2,0.1,Fixed Assets to Assets,retained,,0.04742657330215113,True
+cv_training,2,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,2,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,2,0.1,Equity to Long-term Liability,retained,,0.0,False
+cv_training,2,0.1,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,2,0.1,Cash Flow to Liability,retained,,-0.17794318201107284,True
+cv_training,2,0.1,CFO to Assets,retained,,0.0,False
+cv_training,2,0.1,Cash Flow to Equity,retained,,-0.040927067892303916,True
+cv_training,2,0.1,Current Liability to Current Assets,retained,,0.0,False
+cv_training,2,0.1,Liability-Assets Flag,retained,,-0.1301420097191217,True
+cv_training,2,0.1,Net Income to Total Assets,retained,,-0.3560242953746047,True
+cv_training,2,0.1,Total assets to GNP price,retained,,0.0,False
+cv_training,2,0.1,No-credit Interval,retained,,0.0,False
+cv_training,2,0.1,Gross Profit to Sales,retained,,0.0,False
+cv_training,2,0.1,Net Income to Stockholder's Equity,retained,,0.03374625001773308,True
+cv_training,2,0.1,Liability to Equity,retained,,0.0,False
+cv_training,2,0.1,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,2,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,2,0.1,Net Income Flag,constant,,,False
+cv_training,2,0.1,Equity to Liability,retained,,0.0,False
+cv_training,2,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.29497102692190946,True
+cv_training,2,1.0,ROA(A) before interest and % after tax,retained,,0.40308570704587104,True
+cv_training,2,1.0,ROA(B) before interest and depreciation after tax,retained,,0.0,False
+cv_training,2,1.0,Operating Gross Margin,retained,,0.013860137558033477,True
+cv_training,2,1.0,Realized Sales Gross Margin,retained,,0.04805348179265334,True
+cv_training,2,1.0,Operating Profit Rate,retained,,0.0,False
+cv_training,2,1.0,Pre-tax net Interest Rate,retained,,0.03243148069049778,True
+cv_training,2,1.0,After-tax net Interest Rate,retained,,0.03463550927596811,True
+cv_training,2,1.0,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,2,1.0,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,2,1.0,Operating Expense Rate,retained,,0.0,False
+cv_training,2,1.0,Research and development expense rate,retained,,0.016795434288283426,True
+cv_training,2,1.0,Cash flow rate,retained,,-0.27754279587492403,True
+cv_training,2,1.0,Interest-bearing debt interest rate,retained,,-0.1839991285601334,True
+cv_training,2,1.0,Tax rate (A),retained,,0.0,False
+cv_training,2,1.0,Net Value Per Share (B),retained,,-0.27127883028258837,True
+cv_training,2,1.0,Net Value Per Share (A),retained,,-0.09598702144939883,True
+cv_training,2,1.0,Net Value Per Share (C),retained,,0.0,False
+cv_training,2,1.0,Persistent EPS in the Last Four Seasons,retained,,-0.8582120889181337,True
+cv_training,2,1.0,Cash Flow Per Share,retained,,0.18271864566029003,True
+cv_training,2,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.2859869379889512,True
+cv_training,2,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,2,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.1467394626791366,True
+cv_training,2,1.0,Operating Profit Growth Rate,retained,,-0.1609338627302094,True
+cv_training,2,1.0,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,2,1.0,Regular Net Profit Growth Rate,retained,,0.013716695488438643,True
+cv_training,2,1.0,Continuous Net Profit Growth Rate,retained,,0.07706915962183236,True
+cv_training,2,1.0,Total Asset Growth Rate,retained,,-0.15117820740127436,True
+cv_training,2,1.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,2,1.0,Total Asset Return Growth Rate Ratio,retained,,0.15622216780646092,True
+cv_training,2,1.0,Cash Reinvestment %,retained,,0.057219167968281824,True
+cv_training,2,1.0,Current Ratio,retained,,-0.42372337211013433,True
+cv_training,2,1.0,Quick Ratio,retained,,-0.1323833081988797,True
+cv_training,2,1.0,Interest Expense Ratio,retained,,0.01908096621166491,True
+cv_training,2,1.0,Total debt/Total net worth,retained,,0.44727141667506765,True
+cv_training,2,1.0,Debt ratio %,retained,,0.4015637070363044,True
+cv_training,2,1.0,Net worth/Assets,retained,,-0.40156370703632926,True
+cv_training,2,1.0,Long-term fund suitability ratio (A),retained,,0.0719939667043334,True
+cv_training,2,1.0,Borrowing dependency,retained,,0.3345529175434344,True
+cv_training,2,1.0,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,2,1.0,Operating profit/Paid-in capital,retained,,0.34543902634391643,True
+cv_training,2,1.0,Net profit before tax/Paid-in capital,retained,,-0.15922173748952956,True
+cv_training,2,1.0,Inventory and accounts receivable/Net value,retained,,-0.038503020215178575,True
+cv_training,2,1.0,Total Asset Turnover,retained,,-0.41206010784571634,True
+cv_training,2,1.0,Accounts Receivable Turnover,retained,,-0.6047641230119017,True
+cv_training,2,1.0,Average Collection Days,retained,,0.0,False
+cv_training,2,1.0,Inventory Turnover Rate (times),retained,,-0.11386761942768635,True
+cv_training,2,1.0,Fixed Assets Turnover Frequency,retained,,0.3223930443436431,True
+cv_training,2,1.0,Net Worth Turnover Rate (times),retained,,-0.21025175736737406,True
+cv_training,2,1.0,Revenue per person,retained,,0.0,False
+cv_training,2,1.0,Operating profit per person,retained,,-0.10859463479982827,True
+cv_training,2,1.0,Allocation rate per person,retained,,-0.009533842702982933,True
+cv_training,2,1.0,Working Capital to Total Assets,retained,,0.159816754659147,True
+cv_training,2,1.0,Quick Assets/Total Assets,retained,,0.09657834079909237,True
+cv_training,2,1.0,Current Assets/Total Assets,retained,,0.10619581696194587,True
+cv_training,2,1.0,Cash/Total Assets,retained,,-0.6037106594076574,True
+cv_training,2,1.0,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,2,1.0,Cash/Current Liability,retained,,0.07285711518486845,True
+cv_training,2,1.0,Current Liability to Assets,retained,,0.0,False
+cv_training,2,1.0,Operating Funds to Liability,retained,,-0.01777278815813785,True
+cv_training,2,1.0,Inventory/Working Capital,retained,,0.0,False
+cv_training,2,1.0,Inventory/Current Liability,retained,,-0.16528179162656623,True
+cv_training,2,1.0,Current Liabilities/Liability,retained,,0.21315023313286538,True
+cv_training,2,1.0,Working Capital/Equity,retained,,-0.2808743186989247,True
+cv_training,2,1.0,Current Liabilities/Equity,retained,,0.0,False
+cv_training,2,1.0,Long-term Liability to Current Assets,retained,,-0.0020663807821451044,True
+cv_training,2,1.0,Retained Earnings to Total Assets,retained,,0.16517949823400144,True
+cv_training,2,1.0,Total income/Total expense,retained,,-0.3290935364481299,True
+cv_training,2,1.0,Total expense/Assets,retained,,-0.24793495495962647,True
+cv_training,2,1.0,Current Asset Turnover Rate,retained,,0.15882102870633463,True
+cv_training,2,1.0,Quick Asset Turnover Rate,retained,,0.026422925347259693,True
+cv_training,2,1.0,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,2,1.0,Cash Turnover Rate,retained,,-0.22617714873089861,True
+cv_training,2,1.0,Cash Flow to Sales,retained,,0.0,False
+cv_training,2,1.0,Fixed Assets to Assets,retained,,0.03807143521867586,True
+cv_training,2,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,2,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,2,1.0,Equity to Long-term Liability,retained,,-0.02212099638559142,True
+cv_training,2,1.0,Cash Flow to Total Assets,retained,,0.02941645485365497,True
+cv_training,2,1.0,Cash Flow to Liability,retained,,-0.41182156899174527,True
+cv_training,2,1.0,CFO to Assets,retained,,-0.1675312484288608,True
+cv_training,2,1.0,Cash Flow to Equity,retained,,-0.023309379660902716,True
+cv_training,2,1.0,Current Liability to Current Assets,retained,,-0.07808907621061638,True
+cv_training,2,1.0,Liability-Assets Flag,retained,,-0.16843474611808432,True
+cv_training,2,1.0,Net Income to Total Assets,retained,,-0.8992058724247634,True
+cv_training,2,1.0,Total assets to GNP price,retained,,0.01967741436223161,True
+cv_training,2,1.0,No-credit Interval,retained,,0.0,False
+cv_training,2,1.0,Gross Profit to Sales,retained,,0.013558872557116557,True
+cv_training,2,1.0,Net Income to Stockholder's Equity,retained,,0.3241999799920263,True
+cv_training,2,1.0,Liability to Equity,retained,,-0.033252592789840905,True
+cv_training,2,1.0,Degree of Financial Leverage (DFL),retained,,-0.00857285069426447,True
+cv_training,2,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.020512679641620717,True
+cv_training,2,1.0,Net Income Flag,constant,,,False
+cv_training,2,1.0,Equity to Liability,retained,,-0.6460958666659561,True
+cv_training,2,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.48591200659405664,True
+cv_training,2,10.0,ROA(A) before interest and % after tax,retained,,0.658290951502536,True
+cv_training,2,10.0,ROA(B) before interest and depreciation after tax,retained,,0.1405828692311657,True
+cv_training,2,10.0,Operating Gross Margin,retained,,0.020331929956362127,True
+cv_training,2,10.0,Realized Sales Gross Margin,retained,,0.0675552507692101,True
+cv_training,2,10.0,Operating Profit Rate,retained,,0.026215352890766368,True
+cv_training,2,10.0,Pre-tax net Interest Rate,retained,,0.18236709351327582,True
+cv_training,2,10.0,After-tax net Interest Rate,retained,,0.17493480772492367,True
+cv_training,2,10.0,Non-industry income and expenditure/revenue,retained,,0.17704859270003584,True
+cv_training,2,10.0,Continuous interest rate (after tax),retained,,0.08685480023400415,True
+cv_training,2,10.0,Operating Expense Rate,retained,,-0.011832039309148666,True
+cv_training,2,10.0,Research and development expense rate,retained,,0.0377878072105791,True
+cv_training,2,10.0,Cash flow rate,retained,,-0.3580838566883211,True
+cv_training,2,10.0,Interest-bearing debt interest rate,retained,,-0.2984250035758551,True
+cv_training,2,10.0,Tax rate (A),retained,,0.028804780759122597,True
+cv_training,2,10.0,Net Value Per Share (B),retained,,-0.36861140125561276,True
+cv_training,2,10.0,Net Value Per Share (A),retained,,-0.14755384776212604,True
+cv_training,2,10.0,Net Value Per Share (C),retained,,0.08396355305930985,True
+cv_training,2,10.0,Persistent EPS in the Last Four Seasons,retained,,-0.905651965376432,True
+cv_training,2,10.0,Cash Flow Per Share,retained,,0.2553456748786234,True
+cv_training,2,10.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,2,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.32849689656788184,True
+cv_training,2,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.03580742309191107,True
+cv_training,2,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.14716177232672056,True
+cv_training,2,10.0,Operating Profit Growth Rate,retained,,-0.2886490466239534,True
+cv_training,2,10.0,After-tax Net Profit Growth Rate,retained,,-0.08247191207184777,True
+cv_training,2,10.0,Regular Net Profit Growth Rate,retained,,0.09560973467340357,True
+cv_training,2,10.0,Continuous Net Profit Growth Rate,retained,,0.09619836690832415,True
+cv_training,2,10.0,Total Asset Growth Rate,retained,,-0.19561371192476631,True
+cv_training,2,10.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,2,10.0,Total Asset Return Growth Rate Ratio,retained,,0.2846972571823921,True
+cv_training,2,10.0,Cash Reinvestment %,retained,,0.07348137400280234,True
+cv_training,2,10.0,Current Ratio,retained,,-0.6920396270986933,True
+cv_training,2,10.0,Quick Ratio,retained,,-0.18618848185075407,True
+cv_training,2,10.0,Interest Expense Ratio,retained,,0.02062298199960537,True
+cv_training,2,10.0,Total debt/Total net worth,retained,,0.6037611600311773,True
+cv_training,2,10.0,Debt ratio %,retained,,0.47825515726128054,True
+cv_training,2,10.0,Net worth/Assets,retained,,-0.47825515726125745,True
+cv_training,2,10.0,Long-term fund suitability ratio (A),retained,,0.10839581159492495,True
+cv_training,2,10.0,Borrowing dependency,retained,,0.5582486803667653,True
+cv_training,2,10.0,Contingent liabilities/Net worth,retained,,-0.019156082124751356,True
+cv_training,2,10.0,Operating profit/Paid-in capital,retained,,0.4122032184374755,True
+cv_training,2,10.0,Net profit before tax/Paid-in capital,retained,,-0.24695414271777813,True
+cv_training,2,10.0,Inventory and accounts receivable/Net value,retained,,-0.08011303543466923,True
+cv_training,2,10.0,Total Asset Turnover,retained,,-0.4160016356601941,True
+cv_training,2,10.0,Accounts Receivable Turnover,retained,,-0.8887371393091321,True
+cv_training,2,10.0,Average Collection Days,retained,,-0.0653675002691494,True
+cv_training,2,10.0,Inventory Turnover Rate (times),retained,,-0.13307732568311614,True
+cv_training,2,10.0,Fixed Assets Turnover Frequency,retained,,0.3322935307890693,True
+cv_training,2,10.0,Net Worth Turnover Rate (times),retained,,-0.30162997100362177,True
+cv_training,2,10.0,Revenue per person,retained,,0.0,False
+cv_training,2,10.0,Operating profit per person,retained,,-0.11749733665105375,True
+cv_training,2,10.0,Allocation rate per person,retained,,-0.10918276978790967,True
+cv_training,2,10.0,Working Capital to Total Assets,retained,,0.2524868311952634,True
+cv_training,2,10.0,Quick Assets/Total Assets,retained,,0.17036086288309346,True
+cv_training,2,10.0,Current Assets/Total Assets,retained,,0.09306171067639173,True
+cv_training,2,10.0,Cash/Total Assets,retained,,-0.6964572907455934,True
+cv_training,2,10.0,Quick Assets/Current Liability,retained,,-0.03381823323226783,True
+cv_training,2,10.0,Cash/Current Liability,retained,,0.07139918499464125,True
+cv_training,2,10.0,Current Liability to Assets,retained,,-0.191647397439646,True
+cv_training,2,10.0,Operating Funds to Liability,retained,,-0.06877532645060183,True
+cv_training,2,10.0,Inventory/Working Capital,retained,,-0.006139335373391011,True
+cv_training,2,10.0,Inventory/Current Liability,retained,,-0.13648891710901412,True
+cv_training,2,10.0,Current Liabilities/Liability,retained,,0.3262169160878308,True
+cv_training,2,10.0,Working Capital/Equity,retained,,-0.2978556773407965,True
+cv_training,2,10.0,Current Liabilities/Equity,retained,,0.18171042038587176,True
+cv_training,2,10.0,Long-term Liability to Current Assets,retained,,-0.02031410923554706,True
+cv_training,2,10.0,Retained Earnings to Total Assets,retained,,0.16918770211321044,True
+cv_training,2,10.0,Total income/Total expense,retained,,-0.4823148633224214,True
+cv_training,2,10.0,Total expense/Assets,retained,,-0.3014065851788331,True
+cv_training,2,10.0,Current Asset Turnover Rate,retained,,0.18448687270392858,True
+cv_training,2,10.0,Quick Asset Turnover Rate,retained,,0.03326896535310203,True
+cv_training,2,10.0,Working capitcal Turnover Rate,retained,,0.17083758962587486,True
+cv_training,2,10.0,Cash Turnover Rate,retained,,-0.2534265813312635,True
+cv_training,2,10.0,Cash Flow to Sales,retained,,0.10845769534119394,True
+cv_training,2,10.0,Fixed Assets to Assets,retained,,0.09149338789681276,True
+cv_training,2,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,2,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,2,10.0,Equity to Long-term Liability,retained,,-0.05941101152888549,True
+cv_training,2,10.0,Cash Flow to Total Assets,retained,,0.12481340973833793,True
+cv_training,2,10.0,Cash Flow to Liability,retained,,-0.5146330648849184,True
+cv_training,2,10.0,CFO to Assets,retained,,-0.20370862797943895,True
+cv_training,2,10.0,Cash Flow to Equity,retained,,-0.05024234847149742,True
+cv_training,2,10.0,Current Liability to Current Assets,retained,,-0.10495760659102762,True
+cv_training,2,10.0,Liability-Assets Flag,retained,,-0.13902901064107384,True
+cv_training,2,10.0,Net Income to Total Assets,retained,,-1.1317762399368667,True
+cv_training,2,10.0,Total assets to GNP price,retained,,0.053976987304313745,True
+cv_training,2,10.0,No-credit Interval,retained,,0.0,False
+cv_training,2,10.0,Gross Profit to Sales,retained,,0.019947921433108307,True
+cv_training,2,10.0,Net Income to Stockholder's Equity,retained,,0.3715748833427415,True
+cv_training,2,10.0,Liability to Equity,retained,,-0.3437505993343551,True
+cv_training,2,10.0,Degree of Financial Leverage (DFL),retained,,-0.04269908679860146,True
+cv_training,2,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.022970621374925088,True
+cv_training,2,10.0,Net Income Flag,constant,,,False
+cv_training,2,10.0,Equity to Liability,retained,,-0.8986529428401551,True
+cv_training,3,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,3,0.01,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,3,0.01,ROA(B) before interest and depreciation after tax,retained,,-0.04072668424218795,True
+cv_training,3,0.01,Operating Gross Margin,retained,,0.0,False
+cv_training,3,0.01,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,3,0.01,Operating Profit Rate,retained,,0.0,False
+cv_training,3,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,3,0.01,After-tax net Interest Rate,retained,,0.0,False
+cv_training,3,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,3,0.01,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,3,0.01,Operating Expense Rate,retained,,0.0,False
+cv_training,3,0.01,Research and development expense rate,retained,,0.0,False
+cv_training,3,0.01,Cash flow rate,retained,,0.0,False
+cv_training,3,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,3,0.01,Tax rate (A),retained,,0.0,False
+cv_training,3,0.01,Net Value Per Share (B),retained,,0.0,False
+cv_training,3,0.01,Net Value Per Share (A),retained,,0.0,False
+cv_training,3,0.01,Net Value Per Share (C),retained,,0.0,False
+cv_training,3,0.01,Persistent EPS in the Last Four Seasons,retained,,0.0,False
+cv_training,3,0.01,Cash Flow Per Share,retained,,0.0,False
+cv_training,3,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,3,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Total Asset Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Net Value Growth Rate,retained,,0.0,False
+cv_training,3,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,3,0.01,Cash Reinvestment %,retained,,0.0,False
+cv_training,3,0.01,Current Ratio,retained,,0.0,False
+cv_training,3,0.01,Quick Ratio,retained,,0.0,False
+cv_training,3,0.01,Interest Expense Ratio,retained,,0.0,False
+cv_training,3,0.01,Total debt/Total net worth,retained,,0.0,False
+cv_training,3,0.01,Debt ratio %,retained,,0.15860265203580054,True
+cv_training,3,0.01,Net worth/Assets,retained,,-0.15860265203579088,True
+cv_training,3,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,3,0.01,Borrowing dependency,retained,,0.0215962062356562,True
+cv_training,3,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,3,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,3,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,3,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,3,0.01,Total Asset Turnover,retained,,0.0,False
+cv_training,3,0.01,Accounts Receivable Turnover,retained,,0.0,False
+cv_training,3,0.01,Average Collection Days,retained,,0.0,False
+cv_training,3,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,3,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+cv_training,3,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,3,0.01,Revenue per person,retained,,0.0,False
+cv_training,3,0.01,Operating profit per person,retained,,0.0,False
+cv_training,3,0.01,Allocation rate per person,retained,,0.0,False
+cv_training,3,0.01,Working Capital to Total Assets,retained,,0.0,False
+cv_training,3,0.01,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,3,0.01,Current Assets/Total Assets,retained,,0.0,False
+cv_training,3,0.01,Cash/Total Assets,retained,,0.0,False
+cv_training,3,0.01,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,3,0.01,Cash/Current Liability,retained,,0.0,False
+cv_training,3,0.01,Current Liability to Assets,retained,,0.0,False
+cv_training,3,0.01,Operating Funds to Liability,retained,,0.0,False
+cv_training,3,0.01,Inventory/Working Capital,retained,,0.0,False
+cv_training,3,0.01,Inventory/Current Liability,retained,,0.0,False
+cv_training,3,0.01,Current Liabilities/Liability,retained,,0.0,False
+cv_training,3,0.01,Working Capital/Equity,retained,,0.0,False
+cv_training,3,0.01,Current Liabilities/Equity,retained,,0.0,False
+cv_training,3,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,3,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,3,0.01,Total income/Total expense,retained,,0.0,False
+cv_training,3,0.01,Total expense/Assets,retained,,0.0,False
+cv_training,3,0.01,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,3,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,3,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,3,0.01,Cash Turnover Rate,retained,,0.0,False
+cv_training,3,0.01,Cash Flow to Sales,retained,,0.0,False
+cv_training,3,0.01,Fixed Assets to Assets,retained,,0.0,False
+cv_training,3,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,3,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,3,0.01,Equity to Long-term Liability,retained,,0.0,False
+cv_training,3,0.01,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,3,0.01,Cash Flow to Liability,retained,,0.0,False
+cv_training,3,0.01,CFO to Assets,retained,,0.0,False
+cv_training,3,0.01,Cash Flow to Equity,retained,,0.0,False
+cv_training,3,0.01,Current Liability to Current Assets,retained,,0.052898133765522805,True
+cv_training,3,0.01,Liability-Assets Flag,retained,,0.0,False
+cv_training,3,0.01,Net Income to Total Assets,retained,,-0.3749661078251144,True
+cv_training,3,0.01,Total assets to GNP price,retained,,0.0,False
+cv_training,3,0.01,No-credit Interval,retained,,0.0,False
+cv_training,3,0.01,Gross Profit to Sales,retained,,0.0,False
+cv_training,3,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,3,0.01,Liability to Equity,retained,,0.0,False
+cv_training,3,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,3,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,3,0.01,Net Income Flag,constant,,,False
+cv_training,3,0.01,Equity to Liability,retained,,0.0,False
+cv_training,3,0.1,ROA(C) before interest and depreciation before interest,retained,,-0.07116137374981017,True
+cv_training,3,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,3,0.1,ROA(B) before interest and depreciation after tax,retained,,-0.18428512807417718,True
+cv_training,3,0.1,Operating Gross Margin,retained,,0.0,False
+cv_training,3,0.1,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,3,0.1,Operating Profit Rate,retained,,0.0,False
+cv_training,3,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,3,0.1,After-tax net Interest Rate,retained,,0.0,False
+cv_training,3,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,3,0.1,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,3,0.1,Operating Expense Rate,retained,,0.029896910125586477,True
+cv_training,3,0.1,Research and development expense rate,retained,,0.0,False
+cv_training,3,0.1,Cash flow rate,retained,,0.0,False
+cv_training,3,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,3,0.1,Tax rate (A),retained,,-0.07776715902891133,True
+cv_training,3,0.1,Net Value Per Share (B),retained,,-0.15271641809877765,True
+cv_training,3,0.1,Net Value Per Share (A),retained,,-0.10082712482475176,True
+cv_training,3,0.1,Net Value Per Share (C),retained,,0.0,False
+cv_training,3,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.6488926980016081,True
+cv_training,3,0.1,Cash Flow Per Share,retained,,0.0,False
+cv_training,3,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,3,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.1,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.1,Regular Net Profit Growth Rate,retained,,0.012205701730587272,True
+cv_training,3,0.1,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,0.1,Total Asset Growth Rate,retained,,0.0,False
+cv_training,3,0.1,Net Value Growth Rate,retained,,0.0,False
+cv_training,3,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,3,0.1,Cash Reinvestment %,retained,,0.003053130048909824,True
+cv_training,3,0.1,Current Ratio,retained,,0.0,False
+cv_training,3,0.1,Quick Ratio,retained,,0.03603603092521133,True
+cv_training,3,0.1,Interest Expense Ratio,retained,,0.0,False
+cv_training,3,0.1,Total debt/Total net worth,retained,,0.09317510068961521,True
+cv_training,3,0.1,Debt ratio %,retained,,0.4574073301226697,True
+cv_training,3,0.1,Net worth/Assets,retained,,-0.4574073301226966,True
+cv_training,3,0.1,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,3,0.1,Borrowing dependency,retained,,0.006817161492992542,True
+cv_training,3,0.1,Contingent liabilities/Net worth,retained,,-0.04098871928427675,True
+cv_training,3,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,3,0.1,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,3,0.1,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,3,0.1,Total Asset Turnover,retained,,-0.22575689147257608,True
+cv_training,3,0.1,Accounts Receivable Turnover,retained,,-0.0023532164097841957,True
+cv_training,3,0.1,Average Collection Days,retained,,0.0,False
+cv_training,3,0.1,Inventory Turnover Rate (times),retained,,-0.0031262745485722766,True
+cv_training,3,0.1,Fixed Assets Turnover Frequency,retained,,0.16564039246170292,True
+cv_training,3,0.1,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,3,0.1,Revenue per person,retained,,-0.004286040655173574,True
+cv_training,3,0.1,Operating profit per person,retained,,-0.007864171793242048,True
+cv_training,3,0.1,Allocation rate per person,retained,,0.0,False
+cv_training,3,0.1,Working Capital to Total Assets,retained,,0.0,False
+cv_training,3,0.1,Quick Assets/Total Assets,retained,,-0.032354882658688994,True
+cv_training,3,0.1,Current Assets/Total Assets,retained,,0.0,False
+cv_training,3,0.1,Cash/Total Assets,retained,,-0.141260816197487,True
+cv_training,3,0.1,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,3,0.1,Cash/Current Liability,retained,,0.06851197666757335,True
+cv_training,3,0.1,Current Liability to Assets,retained,,0.0,False
+cv_training,3,0.1,Operating Funds to Liability,retained,,0.0,False
+cv_training,3,0.1,Inventory/Working Capital,retained,,0.0,False
+cv_training,3,0.1,Inventory/Current Liability,retained,,0.0,False
+cv_training,3,0.1,Current Liabilities/Liability,retained,,0.0,False
+cv_training,3,0.1,Working Capital/Equity,retained,,-0.06937546805535469,True
+cv_training,3,0.1,Current Liabilities/Equity,retained,,0.0,False
+cv_training,3,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,3,0.1,Retained Earnings to Total Assets,retained,,0.1238018048296463,True
+cv_training,3,0.1,Total income/Total expense,retained,,0.0,False
+cv_training,3,0.1,Total expense/Assets,retained,,0.0,False
+cv_training,3,0.1,Current Asset Turnover Rate,retained,,0.02228140475662805,True
+cv_training,3,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,3,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,3,0.1,Cash Turnover Rate,retained,,-0.07161626230650026,True
+cv_training,3,0.1,Cash Flow to Sales,retained,,0.0,False
+cv_training,3,0.1,Fixed Assets to Assets,retained,,0.05000102199287947,True
+cv_training,3,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,3,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,3,0.1,Equity to Long-term Liability,retained,,0.0034081779082590627,True
+cv_training,3,0.1,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,3,0.1,Cash Flow to Liability,retained,,-0.07267824771780386,True
+cv_training,3,0.1,CFO to Assets,retained,,0.0,False
+cv_training,3,0.1,Cash Flow to Equity,retained,,0.0,False
+cv_training,3,0.1,Current Liability to Current Assets,retained,,0.02767150798913764,True
+cv_training,3,0.1,Liability-Assets Flag,retained,,-0.17342477957495744,True
+cv_training,3,0.1,Net Income to Total Assets,retained,,-0.26679204868887707,True
+cv_training,3,0.1,Total assets to GNP price,retained,,-0.0041029904932667885,True
+cv_training,3,0.1,No-credit Interval,retained,,0.0,False
+cv_training,3,0.1,Gross Profit to Sales,retained,,0.0,False
+cv_training,3,0.1,Net Income to Stockholder's Equity,retained,,0.05746366818729992,True
+cv_training,3,0.1,Liability to Equity,retained,,0.0,False
+cv_training,3,0.1,Degree of Financial Leverage (DFL),retained,,0.01878393702650042,True
+cv_training,3,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,3,0.1,Net Income Flag,constant,,,False
+cv_training,3,0.1,Equity to Liability,retained,,0.0,False
+cv_training,3,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.23649543253162097,True
+cv_training,3,1.0,ROA(A) before interest and % after tax,retained,,0.31798437609205255,True
+cv_training,3,1.0,ROA(B) before interest and depreciation after tax,retained,,-0.17530013712670126,True
+cv_training,3,1.0,Operating Gross Margin,retained,,0.03907589174718494,True
+cv_training,3,1.0,Realized Sales Gross Margin,retained,,0.09454486364659051,True
+cv_training,3,1.0,Operating Profit Rate,retained,,0.0,False
+cv_training,3,1.0,Pre-tax net Interest Rate,retained,,0.027960977643870375,True
+cv_training,3,1.0,After-tax net Interest Rate,retained,,0.005803548275625912,True
+cv_training,3,1.0,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,3,1.0,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,3,1.0,Operating Expense Rate,retained,,0.13791434370006375,True
+cv_training,3,1.0,Research and development expense rate,retained,,0.0457051235975279,True
+cv_training,3,1.0,Cash flow rate,retained,,-0.15055844477309188,True
+cv_training,3,1.0,Interest-bearing debt interest rate,retained,,0.07749498462567166,True
+cv_training,3,1.0,Tax rate (A),retained,,-0.14458697291313788,True
+cv_training,3,1.0,Net Value Per Share (B),retained,,-0.4123854153668346,True
+cv_training,3,1.0,Net Value Per Share (A),retained,,-0.20874545840817962,True
+cv_training,3,1.0,Net Value Per Share (C),retained,,0.0,False
+cv_training,3,1.0,Persistent EPS in the Last Four Seasons,retained,,-0.9196476635906099,True
+cv_training,3,1.0,Cash Flow Per Share,retained,,0.041760994597248524,True
+cv_training,3,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.43072481897259224,True
+cv_training,3,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,3,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.04230110302110312,True
+cv_training,3,1.0,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,3,1.0,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,3,1.0,Regular Net Profit Growth Rate,retained,,0.07873296830103706,True
+cv_training,3,1.0,Continuous Net Profit Growth Rate,retained,,0.10670348171202698,True
+cv_training,3,1.0,Total Asset Growth Rate,retained,,-0.1022536077982469,True
+cv_training,3,1.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,3,1.0,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,3,1.0,Cash Reinvestment %,retained,,0.0789907103590338,True
+cv_training,3,1.0,Current Ratio,retained,,-0.6404513294350805,True
+cv_training,3,1.0,Quick Ratio,retained,,0.04188253596960633,True
+cv_training,3,1.0,Interest Expense Ratio,retained,,-0.016786018821229813,True
+cv_training,3,1.0,Total debt/Total net worth,retained,,0.340426123354631,True
+cv_training,3,1.0,Debt ratio %,retained,,0.5739717536729058,True
+cv_training,3,1.0,Net worth/Assets,retained,,-0.5739717536730665,True
+cv_training,3,1.0,Long-term fund suitability ratio (A),retained,,0.06197091424107167,True
+cv_training,3,1.0,Borrowing dependency,retained,,0.470695084817845,True
+cv_training,3,1.0,Contingent liabilities/Net worth,retained,,-0.057078857617993424,True
+cv_training,3,1.0,Operating profit/Paid-in capital,retained,,0.5216724431770822,True
+cv_training,3,1.0,Net profit before tax/Paid-in capital,retained,,-0.16313441540821652,True
+cv_training,3,1.0,Inventory and accounts receivable/Net value,retained,,-0.1226361295975827,True
+cv_training,3,1.0,Total Asset Turnover,retained,,-0.22815077159706781,True
+cv_training,3,1.0,Accounts Receivable Turnover,retained,,-0.28684144069040435,True
+cv_training,3,1.0,Average Collection Days,retained,,-0.0030750744227496215,True
+cv_training,3,1.0,Inventory Turnover Rate (times),retained,,-0.08558574474552952,True
+cv_training,3,1.0,Fixed Assets Turnover Frequency,retained,,0.21826496250767227,True
+cv_training,3,1.0,Net Worth Turnover Rate (times),retained,,-0.19319946896365106,True
+cv_training,3,1.0,Revenue per person,retained,,-0.03984155366613621,True
+cv_training,3,1.0,Operating profit per person,retained,,-0.31002869794567606,True
+cv_training,3,1.0,Allocation rate per person,retained,,0.0,False
+cv_training,3,1.0,Working Capital to Total Assets,retained,,0.4217205617023047,True
+cv_training,3,1.0,Quick Assets/Total Assets,retained,,-0.09356152369675154,True
+cv_training,3,1.0,Current Assets/Total Assets,retained,,0.09049568264180004,True
+cv_training,3,1.0,Cash/Total Assets,retained,,-0.3313344171281153,True
+cv_training,3,1.0,Quick Assets/Current Liability,retained,,-0.01550042657582624,True
+cv_training,3,1.0,Cash/Current Liability,retained,,0.06450022184402115,True
+cv_training,3,1.0,Current Liability to Assets,retained,,-0.1265473240613118,True
+cv_training,3,1.0,Operating Funds to Liability,retained,,0.012781142672492377,True
+cv_training,3,1.0,Inventory/Working Capital,retained,,-0.0852247164058686,True
+cv_training,3,1.0,Inventory/Current Liability,retained,,0.0,False
+cv_training,3,1.0,Current Liabilities/Liability,retained,,0.1495763685530142,True
+cv_training,3,1.0,Working Capital/Equity,retained,,-0.28648008683539333,True
+cv_training,3,1.0,Current Liabilities/Equity,retained,,0.0,False
+cv_training,3,1.0,Long-term Liability to Current Assets,retained,,0.05763353858189469,True
+cv_training,3,1.0,Retained Earnings to Total Assets,retained,,0.34408922093850436,True
+cv_training,3,1.0,Total income/Total expense,retained,,0.0,False
+cv_training,3,1.0,Total expense/Assets,retained,,-0.05836676523325299,True
+cv_training,3,1.0,Current Asset Turnover Rate,retained,,0.1660337026511542,True
+cv_training,3,1.0,Quick Asset Turnover Rate,retained,,-0.032597293107436025,True
+cv_training,3,1.0,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,3,1.0,Cash Turnover Rate,retained,,-0.22649232411205314,True
+cv_training,3,1.0,Cash Flow to Sales,retained,,0.0,False
+cv_training,3,1.0,Fixed Assets to Assets,retained,,0.04979250383308944,True
+cv_training,3,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,3,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,3,1.0,Equity to Long-term Liability,retained,,0.07180248539445507,True
+cv_training,3,1.0,Cash Flow to Total Assets,retained,,0.004356857933897206,True
+cv_training,3,1.0,Cash Flow to Liability,retained,,-0.29637605043426724,True
+cv_training,3,1.0,CFO to Assets,retained,,-0.1027997194499719,True
+cv_training,3,1.0,Cash Flow to Equity,retained,,0.0,False
+cv_training,3,1.0,Current Liability to Current Assets,retained,,-0.007143275504825848,True
+cv_training,3,1.0,Liability-Assets Flag,retained,,-0.204408393302583,True
+cv_training,3,1.0,Net Income to Total Assets,retained,,-0.7695768084820914,True
+cv_training,3,1.0,Total assets to GNP price,retained,,-0.01315147718672955,True
+cv_training,3,1.0,No-credit Interval,retained,,-0.002968285369746267,True
+cv_training,3,1.0,Gross Profit to Sales,retained,,0.038884367573554054,True
+cv_training,3,1.0,Net Income to Stockholder's Equity,retained,,0.29082184378580167,True
+cv_training,3,1.0,Liability to Equity,retained,,-0.20388629338566383,True
+cv_training,3,1.0,Degree of Financial Leverage (DFL),retained,,0.05038759626393242,True
+cv_training,3,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,3,1.0,Net Income Flag,constant,,,False
+cv_training,3,1.0,Equity to Liability,retained,,-0.3404325663338917,True
+cv_training,3,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.3096373568636467,True
+cv_training,3,10.0,ROA(A) before interest and % after tax,retained,,0.5785226920883086,True
+cv_training,3,10.0,ROA(B) before interest and depreciation after tax,retained,,-0.2415889494832183,True
+cv_training,3,10.0,Operating Gross Margin,retained,,0.04136573147285696,True
+cv_training,3,10.0,Realized Sales Gross Margin,retained,,0.10030509195922066,True
+cv_training,3,10.0,Operating Profit Rate,retained,,0.10490198080122012,True
+cv_training,3,10.0,Pre-tax net Interest Rate,retained,,0.19352640151358294,True
+cv_training,3,10.0,After-tax net Interest Rate,retained,,0.16325564524385425,True
+cv_training,3,10.0,Non-industry income and expenditure/revenue,retained,,0.027371125607267597,True
+cv_training,3,10.0,Continuous interest rate (after tax),retained,,0.025336608938271978,True
+cv_training,3,10.0,Operating Expense Rate,retained,,0.1413725546241235,True
+cv_training,3,10.0,Research and development expense rate,retained,,0.06643457702486062,True
+cv_training,3,10.0,Cash flow rate,retained,,-0.3940147425296692,True
+cv_training,3,10.0,Interest-bearing debt interest rate,retained,,0.12646739311628144,True
+cv_training,3,10.0,Tax rate (A),retained,,-0.15196991682463676,True
+cv_training,3,10.0,Net Value Per Share (B),retained,,-0.48778916617958595,True
+cv_training,3,10.0,Net Value Per Share (A),retained,,-0.26570198986800314,True
+cv_training,3,10.0,Net Value Per Share (C),retained,,0.012295550315398892,True
+cv_training,3,10.0,Persistent EPS in the Last Four Seasons,retained,,-0.9908499557899251,True
+cv_training,3,10.0,Cash Flow Per Share,retained,,0.14356539727579423,True
+cv_training,3,10.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,3,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.5130045806148572,True
+cv_training,3,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.17021982531881333,True
+cv_training,3,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.045628974613023,True
+cv_training,3,10.0,Operating Profit Growth Rate,retained,,0.029736867960441168,True
+cv_training,3,10.0,After-tax Net Profit Growth Rate,retained,,-0.05538874984558079,True
+cv_training,3,10.0,Regular Net Profit Growth Rate,retained,,0.13900103725428922,True
+cv_training,3,10.0,Continuous Net Profit Growth Rate,retained,,0.12383273213745208,True
+cv_training,3,10.0,Total Asset Growth Rate,retained,,-0.13306296609595197,True
+cv_training,3,10.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,3,10.0,Total Asset Return Growth Rate Ratio,retained,,0.07430247684049518,True
+cv_training,3,10.0,Cash Reinvestment %,retained,,0.09629675815756875,True
+cv_training,3,10.0,Current Ratio,retained,,-0.8030740141348277,True
+cv_training,3,10.0,Quick Ratio,retained,,0.05706237818761787,True
+cv_training,3,10.0,Interest Expense Ratio,retained,,-0.01662691515106654,True
+cv_training,3,10.0,Total debt/Total net worth,retained,,0.4229930439568831,True
+cv_training,3,10.0,Debt ratio %,retained,,0.6691129473947661,True
+cv_training,3,10.0,Net worth/Assets,retained,,-0.6691129473947682,True
+cv_training,3,10.0,Long-term fund suitability ratio (A),retained,,0.1514311944174796,True
+cv_training,3,10.0,Borrowing dependency,retained,,0.5602950800523834,True
+cv_training,3,10.0,Contingent liabilities/Net worth,retained,,-0.05353273966016539,True
+cv_training,3,10.0,Operating profit/Paid-in capital,retained,,0.6112094412063824,True
+cv_training,3,10.0,Net profit before tax/Paid-in capital,retained,,-0.3393675199393313,True
+cv_training,3,10.0,Inventory and accounts receivable/Net value,retained,,-0.2373371731638069,True
+cv_training,3,10.0,Total Asset Turnover,retained,,-0.1800838353302173,True
+cv_training,3,10.0,Accounts Receivable Turnover,retained,,-0.48746570053412125,True
+cv_training,3,10.0,Average Collection Days,retained,,-0.09431825450961463,True
+cv_training,3,10.0,Inventory Turnover Rate (times),retained,,-0.09647430864156194,True
+cv_training,3,10.0,Fixed Assets Turnover Frequency,retained,,0.2294808826180058,True
+cv_training,3,10.0,Net Worth Turnover Rate (times),retained,,-0.2648915354645311,True
+cv_training,3,10.0,Revenue per person,retained,,-0.01324186607515226,True
+cv_training,3,10.0,Operating profit per person,retained,,-0.3786511667088884,True
+cv_training,3,10.0,Allocation rate per person,retained,,-0.10018069677457703,True
+cv_training,3,10.0,Working Capital to Total Assets,retained,,0.44864108102607264,True
+cv_training,3,10.0,Quick Assets/Total Assets,retained,,-0.12281884535517501,True
+cv_training,3,10.0,Current Assets/Total Assets,retained,,0.15702863700469838,True
+cv_training,3,10.0,Cash/Total Assets,retained,,-0.35380655644839,True
+cv_training,3,10.0,Quick Assets/Current Liability,retained,,-0.045125121370184075,True
+cv_training,3,10.0,Cash/Current Liability,retained,,0.06292907983831202,True
+cv_training,3,10.0,Current Liability to Assets,retained,,-0.3440516986432235,True
+cv_training,3,10.0,Operating Funds to Liability,retained,,0.2586389971404731,True
+cv_training,3,10.0,Inventory/Working Capital,retained,,-0.10057692453357378,True
+cv_training,3,10.0,Inventory/Current Liability,retained,,0.021066976947206446,True
+cv_training,3,10.0,Current Liabilities/Liability,retained,,0.31417969611304486,True
+cv_training,3,10.0,Working Capital/Equity,retained,,-0.3091247918978683,True
+cv_training,3,10.0,Current Liabilities/Equity,retained,,0.22778681002524281,True
+cv_training,3,10.0,Long-term Liability to Current Assets,retained,,0.06321918043384783,True
+cv_training,3,10.0,Retained Earnings to Total Assets,retained,,0.3797412320023482,True
+cv_training,3,10.0,Total income/Total expense,retained,,0.0,False
+cv_training,3,10.0,Total expense/Assets,retained,,-0.10540046473120639,True
+cv_training,3,10.0,Current Asset Turnover Rate,retained,,0.1874465385601126,True
+cv_training,3,10.0,Quick Asset Turnover Rate,retained,,-0.053552457721003165,True
+cv_training,3,10.0,Working capitcal Turnover Rate,retained,,0.25532164155213155,True
+cv_training,3,10.0,Cash Turnover Rate,retained,,-0.25187562749069525,True
+cv_training,3,10.0,Cash Flow to Sales,retained,,0.09779458321787382,True
+cv_training,3,10.0,Fixed Assets to Assets,retained,,0.09343672635459589,True
+cv_training,3,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,3,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,3,10.0,Equity to Long-term Liability,retained,,0.17818117674745598,True
+cv_training,3,10.0,Cash Flow to Total Assets,retained,,0.12722858642225363,True
+cv_training,3,10.0,Cash Flow to Liability,retained,,-0.41350676306673767,True
+cv_training,3,10.0,CFO to Assets,retained,,-0.21953088258307235,True
+cv_training,3,10.0,Cash Flow to Equity,retained,,-0.054221503575365024,True
+cv_training,3,10.0,Current Liability to Current Assets,retained,,-0.033607759699911706,True
+cv_training,3,10.0,Liability-Assets Flag,retained,,-0.19891369002098355,True
+cv_training,3,10.0,Net Income to Total Assets,retained,,-0.94567221054522,True
+cv_training,3,10.0,Total assets to GNP price,retained,,-0.013850561084330424,True
+cv_training,3,10.0,No-credit Interval,retained,,-0.01013884067306375,True
+cv_training,3,10.0,Gross Profit to Sales,retained,,0.04118310606459831,True
+cv_training,3,10.0,Net Income to Stockholder's Equity,retained,,0.3035206815928782,True
+cv_training,3,10.0,Liability to Equity,retained,,-0.4969513897590684,True
+cv_training,3,10.0,Degree of Financial Leverage (DFL),retained,,0.05572861682009903,True
+cv_training,3,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,3,10.0,Net Income Flag,constant,,,False
+cv_training,3,10.0,Equity to Liability,retained,,-0.5618496867455421,True
+cv_training,4,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,4,0.01,ROA(A) before interest and % after tax,retained,,-0.03185819290688988,True
+cv_training,4,0.01,ROA(B) before interest and depreciation after tax,retained,,-0.10187219112134324,True
+cv_training,4,0.01,Operating Gross Margin,retained,,0.0,False
+cv_training,4,0.01,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,4,0.01,Operating Profit Rate,retained,,0.0,False
+cv_training,4,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,4,0.01,After-tax net Interest Rate,retained,,0.0,False
+cv_training,4,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,4,0.01,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,4,0.01,Operating Expense Rate,retained,,0.0,False
+cv_training,4,0.01,Research and development expense rate,retained,,0.0,False
+cv_training,4,0.01,Cash flow rate,retained,,0.0,False
+cv_training,4,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,4,0.01,Tax rate (A),retained,,0.0,False
+cv_training,4,0.01,Net Value Per Share (B),retained,,0.0,False
+cv_training,4,0.01,Net Value Per Share (A),retained,,0.0,False
+cv_training,4,0.01,Net Value Per Share (C),retained,,0.0,False
+cv_training,4,0.01,Persistent EPS in the Last Four Seasons,retained,,0.0,False
+cv_training,4,0.01,Cash Flow Per Share,retained,,0.0,False
+cv_training,4,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,4,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,4,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,4,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Total Asset Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Net Value Growth Rate,retained,,0.0,False
+cv_training,4,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,4,0.01,Cash Reinvestment %,retained,,0.0,False
+cv_training,4,0.01,Current Ratio,retained,,0.0,False
+cv_training,4,0.01,Quick Ratio,retained,,0.0,False
+cv_training,4,0.01,Interest Expense Ratio,retained,,0.0,False
+cv_training,4,0.01,Total debt/Total net worth,retained,,0.0,False
+cv_training,4,0.01,Debt ratio %,retained,,0.15592173455034997,True
+cv_training,4,0.01,Net worth/Assets,retained,,-0.15592173455032587,True
+cv_training,4,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,4,0.01,Borrowing dependency,retained,,0.012860063060744609,True
+cv_training,4,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,4,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,4,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,4,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,4,0.01,Total Asset Turnover,retained,,0.0,False
+cv_training,4,0.01,Accounts Receivable Turnover,retained,,0.0,False
+cv_training,4,0.01,Average Collection Days,retained,,0.0,False
+cv_training,4,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,4,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+cv_training,4,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,4,0.01,Revenue per person,retained,,0.0,False
+cv_training,4,0.01,Operating profit per person,retained,,0.0,False
+cv_training,4,0.01,Allocation rate per person,retained,,0.0,False
+cv_training,4,0.01,Working Capital to Total Assets,retained,,0.0,False
+cv_training,4,0.01,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,4,0.01,Current Assets/Total Assets,retained,,0.0,False
+cv_training,4,0.01,Cash/Total Assets,retained,,0.0,False
+cv_training,4,0.01,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,4,0.01,Cash/Current Liability,retained,,0.0,False
+cv_training,4,0.01,Current Liability to Assets,retained,,0.0,False
+cv_training,4,0.01,Operating Funds to Liability,retained,,0.0,False
+cv_training,4,0.01,Inventory/Working Capital,retained,,0.0,False
+cv_training,4,0.01,Inventory/Current Liability,retained,,0.0,False
+cv_training,4,0.01,Current Liabilities/Liability,retained,,0.0,False
+cv_training,4,0.01,Working Capital/Equity,retained,,0.0,False
+cv_training,4,0.01,Current Liabilities/Equity,retained,,0.0,False
+cv_training,4,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,4,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,4,0.01,Total income/Total expense,retained,,0.0,False
+cv_training,4,0.01,Total expense/Assets,retained,,0.0,False
+cv_training,4,0.01,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,4,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,4,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,4,0.01,Cash Turnover Rate,retained,,0.0,False
+cv_training,4,0.01,Cash Flow to Sales,retained,,0.0,False
+cv_training,4,0.01,Fixed Assets to Assets,retained,,0.0,False
+cv_training,4,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,4,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,4,0.01,Equity to Long-term Liability,retained,,0.0,False
+cv_training,4,0.01,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,4,0.01,Cash Flow to Liability,retained,,0.0,False
+cv_training,4,0.01,CFO to Assets,retained,,0.0,False
+cv_training,4,0.01,Cash Flow to Equity,retained,,0.0,False
+cv_training,4,0.01,Current Liability to Current Assets,retained,,0.0,False
+cv_training,4,0.01,Liability-Assets Flag,retained,,0.0,False
+cv_training,4,0.01,Net Income to Total Assets,retained,,-0.3509325079385725,True
+cv_training,4,0.01,Total assets to GNP price,retained,,0.0,False
+cv_training,4,0.01,No-credit Interval,retained,,0.0,False
+cv_training,4,0.01,Gross Profit to Sales,retained,,0.0,False
+cv_training,4,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,4,0.01,Liability to Equity,retained,,0.0,False
+cv_training,4,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,4,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,4,0.01,Net Income Flag,constant,,,False
+cv_training,4,0.01,Equity to Liability,retained,,0.0,False
+cv_training,4,0.1,ROA(C) before interest and depreciation before interest,retained,,-0.10239908120463358,True
+cv_training,4,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,4,0.1,ROA(B) before interest and depreciation after tax,retained,,-0.086259552859575,True
+cv_training,4,0.1,Operating Gross Margin,retained,,0.0,False
+cv_training,4,0.1,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,4,0.1,Operating Profit Rate,retained,,0.0,False
+cv_training,4,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,4,0.1,After-tax net Interest Rate,retained,,0.0,False
+cv_training,4,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,4,0.1,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,4,0.1,Operating Expense Rate,retained,,0.0,False
+cv_training,4,0.1,Research and development expense rate,retained,,0.0,False
+cv_training,4,0.1,Cash flow rate,retained,,-0.002695513037602493,True
+cv_training,4,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,4,0.1,Tax rate (A),retained,,0.0,False
+cv_training,4,0.1,Net Value Per Share (B),retained,,-0.09267730956409148,True
+cv_training,4,0.1,Net Value Per Share (A),retained,,-0.057773212254636455,True
+cv_training,4,0.1,Net Value Per Share (C),retained,,0.0,False
+cv_training,4,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.6240701486403645,True
+cv_training,4,0.1,Cash Flow Per Share,retained,,0.0,False
+cv_training,4,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,4,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,4,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,4,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.10199847188407998,True
+cv_training,4,0.1,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.1,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.1,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,0.1,Total Asset Growth Rate,retained,,0.0,False
+cv_training,4,0.1,Net Value Growth Rate,retained,,0.0,False
+cv_training,4,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,4,0.1,Cash Reinvestment %,retained,,0.030527563950957612,True
+cv_training,4,0.1,Current Ratio,retained,,0.0,False
+cv_training,4,0.1,Quick Ratio,retained,,0.011374684543620507,True
+cv_training,4,0.1,Interest Expense Ratio,retained,,0.0,False
+cv_training,4,0.1,Total debt/Total net worth,retained,,0.0,False
+cv_training,4,0.1,Debt ratio %,retained,,0.4909615038870956,True
+cv_training,4,0.1,Net worth/Assets,retained,,-0.4909615038871143,True
+cv_training,4,0.1,Long-term fund suitability ratio (A),retained,,0.027609454387590864,True
+cv_training,4,0.1,Borrowing dependency,retained,,0.0,False
+cv_training,4,0.1,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,4,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,4,0.1,Net profit before tax/Paid-in capital,retained,,-0.09531561240712229,True
+cv_training,4,0.1,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,4,0.1,Total Asset Turnover,retained,,-0.2894379637065741,True
+cv_training,4,0.1,Accounts Receivable Turnover,retained,,-0.053074642072616335,True
+cv_training,4,0.1,Average Collection Days,retained,,0.0,False
+cv_training,4,0.1,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,4,0.1,Fixed Assets Turnover Frequency,retained,,0.18103616141576645,True
+cv_training,4,0.1,Net Worth Turnover Rate (times),retained,,-0.1715259199604242,True
+cv_training,4,0.1,Revenue per person,retained,,0.0,False
+cv_training,4,0.1,Operating profit per person,retained,,0.0,False
+cv_training,4,0.1,Allocation rate per person,retained,,0.0,False
+cv_training,4,0.1,Working Capital to Total Assets,retained,,0.0,False
+cv_training,4,0.1,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,4,0.1,Current Assets/Total Assets,retained,,0.0,False
+cv_training,4,0.1,Cash/Total Assets,retained,,-0.14133398566604288,True
+cv_training,4,0.1,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,4,0.1,Cash/Current Liability,retained,,0.026001308735172042,True
+cv_training,4,0.1,Current Liability to Assets,retained,,0.0,False
+cv_training,4,0.1,Operating Funds to Liability,retained,,-0.11087202023004676,True
+cv_training,4,0.1,Inventory/Working Capital,retained,,0.0,False
+cv_training,4,0.1,Inventory/Current Liability,retained,,-0.02056457659473268,True
+cv_training,4,0.1,Current Liabilities/Liability,retained,,0.0,False
+cv_training,4,0.1,Working Capital/Equity,retained,,-0.03055130274966751,True
+cv_training,4,0.1,Current Liabilities/Equity,retained,,0.0,False
+cv_training,4,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,4,0.1,Retained Earnings to Total Assets,retained,,0.2502670876702923,True
+cv_training,4,0.1,Total income/Total expense,retained,,0.0,False
+cv_training,4,0.1,Total expense/Assets,retained,,0.0,False
+cv_training,4,0.1,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,4,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,4,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,4,0.1,Cash Turnover Rate,retained,,-0.12426548226380528,True
+cv_training,4,0.1,Cash Flow to Sales,retained,,0.0,False
+cv_training,4,0.1,Fixed Assets to Assets,retained,,0.03695909761552338,True
+cv_training,4,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,4,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,4,0.1,Equity to Long-term Liability,retained,,0.0,False
+cv_training,4,0.1,Cash Flow to Total Assets,retained,,-0.08405233762522717,True
+cv_training,4,0.1,Cash Flow to Liability,retained,,-0.06726205349598348,True
+cv_training,4,0.1,CFO to Assets,retained,,0.0,False
+cv_training,4,0.1,Cash Flow to Equity,retained,,-0.012158878265709288,True
+cv_training,4,0.1,Current Liability to Current Assets,retained,,0.05620349588752782,True
+cv_training,4,0.1,Liability-Assets Flag,retained,,-0.17150462916619463,True
+cv_training,4,0.1,Net Income to Total Assets,retained,,-0.44842615213822895,True
+cv_training,4,0.1,Total assets to GNP price,retained,,0.0,False
+cv_training,4,0.1,No-credit Interval,retained,,0.0,False
+cv_training,4,0.1,Gross Profit to Sales,retained,,0.0,False
+cv_training,4,0.1,Net Income to Stockholder's Equity,retained,,0.03676136837084357,True
+cv_training,4,0.1,Liability to Equity,retained,,0.0,False
+cv_training,4,0.1,Degree of Financial Leverage (DFL),retained,,0.010376566979812785,True
+cv_training,4,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,4,0.1,Net Income Flag,constant,,,False
+cv_training,4,0.1,Equity to Liability,retained,,0.0,False
+cv_training,4,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.323022368685181,True
+cv_training,4,1.0,ROA(A) before interest and % after tax,retained,,0.1812809263803071,True
+cv_training,4,1.0,ROA(B) before interest and depreciation after tax,retained,,0.0,False
+cv_training,4,1.0,Operating Gross Margin,retained,,0.059583782684408226,True
+cv_training,4,1.0,Realized Sales Gross Margin,retained,,0.1152407513179152,True
+cv_training,4,1.0,Operating Profit Rate,retained,,0.0,False
+cv_training,4,1.0,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,4,1.0,After-tax net Interest Rate,retained,,0.0,False
+cv_training,4,1.0,Non-industry income and expenditure/revenue,retained,,-0.3626377092870965,True
+cv_training,4,1.0,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,4,1.0,Operating Expense Rate,retained,,-0.03334069645692717,True
+cv_training,4,1.0,Research and development expense rate,retained,,0.06292191987173866,True
+cv_training,4,1.0,Cash flow rate,retained,,-0.22094187791527548,True
+cv_training,4,1.0,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,4,1.0,Tax rate (A),retained,,-0.0214377742917787,True
+cv_training,4,1.0,Net Value Per Share (B),retained,,-0.36518374457099717,True
+cv_training,4,1.0,Net Value Per Share (A),retained,,-0.16950267149436915,True
+cv_training,4,1.0,Net Value Per Share (C),retained,,0.0,False
+cv_training,4,1.0,Persistent EPS in the Last Four Seasons,retained,,-1.0496840130892018,True
+cv_training,4,1.0,Cash Flow Per Share,retained,,0.2348059488158255,True
+cv_training,4,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,4,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.48631123261534964,True
+cv_training,4,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.015104702481625393,True
+cv_training,4,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.13628131714873357,True
+cv_training,4,1.0,Operating Profit Growth Rate,retained,,-0.3984689123742495,True
+cv_training,4,1.0,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,4,1.0,Regular Net Profit Growth Rate,retained,,0.0069427791681414205,True
+cv_training,4,1.0,Continuous Net Profit Growth Rate,retained,,0.11371818944515447,True
+cv_training,4,1.0,Total Asset Growth Rate,retained,,-0.13541426019312433,True
+cv_training,4,1.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,4,1.0,Total Asset Return Growth Rate Ratio,retained,,0.39978901175893744,True
+cv_training,4,1.0,Cash Reinvestment %,retained,,0.1777718539951511,True
+cv_training,4,1.0,Current Ratio,retained,,0.0,False
+cv_training,4,1.0,Quick Ratio,retained,,-0.046961440642189066,True
+cv_training,4,1.0,Interest Expense Ratio,retained,,0.008813655249027698,True
+cv_training,4,1.0,Total debt/Total net worth,retained,,0.0,False
+cv_training,4,1.0,Debt ratio %,retained,,0.5263779353400936,True
+cv_training,4,1.0,Net worth/Assets,retained,,-0.5263779353400592,True
+cv_training,4,1.0,Long-term fund suitability ratio (A),retained,,0.09862797322429406,True
+cv_training,4,1.0,Borrowing dependency,retained,,0.26966532140311356,True
+cv_training,4,1.0,Contingent liabilities/Net worth,retained,,0.01956406664137283,True
+cv_training,4,1.0,Operating profit/Paid-in capital,retained,,0.46731996918064284,True
+cv_training,4,1.0,Net profit before tax/Paid-in capital,retained,,-0.2745243192503965,True
+cv_training,4,1.0,Inventory and accounts receivable/Net value,retained,,-0.04982961552238939,True
+cv_training,4,1.0,Total Asset Turnover,retained,,-0.02513877788139445,True
+cv_training,4,1.0,Accounts Receivable Turnover,retained,,-0.3304977033647921,True
+cv_training,4,1.0,Average Collection Days,retained,,-0.04233173588758995,True
+cv_training,4,1.0,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,4,1.0,Fixed Assets Turnover Frequency,retained,,0.2318956717629636,True
+cv_training,4,1.0,Net Worth Turnover Rate (times),retained,,-0.7786057952521629,True
+cv_training,4,1.0,Revenue per person,retained,,0.1957602319662483,True
+cv_training,4,1.0,Operating profit per person,retained,,-0.1635900872992197,True
+cv_training,4,1.0,Allocation rate per person,retained,,-0.043211515070482265,True
+cv_training,4,1.0,Working Capital to Total Assets,retained,,0.0,False
+cv_training,4,1.0,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,4,1.0,Current Assets/Total Assets,retained,,0.0,False
+cv_training,4,1.0,Cash/Total Assets,retained,,-0.33576311373575,True
+cv_training,4,1.0,Quick Assets/Current Liability,retained,,-0.03477971547817052,True
+cv_training,4,1.0,Cash/Current Liability,retained,,0.043279007409998176,True
+cv_training,4,1.0,Current Liability to Assets,retained,,0.0,False
+cv_training,4,1.0,Operating Funds to Liability,retained,,-0.2702591543701017,True
+cv_training,4,1.0,Inventory/Working Capital,retained,,-0.032916363162547715,True
+cv_training,4,1.0,Inventory/Current Liability,retained,,-0.1250698587154386,True
+cv_training,4,1.0,Current Liabilities/Liability,retained,,0.10810440033287605,True
+cv_training,4,1.0,Working Capital/Equity,retained,,-0.05505967760383165,True
+cv_training,4,1.0,Current Liabilities/Equity,retained,,0.06722261145233847,True
+cv_training,4,1.0,Long-term Liability to Current Assets,retained,,0.03018856218900714,True
+cv_training,4,1.0,Retained Earnings to Total Assets,retained,,0.4862887415307321,True
+cv_training,4,1.0,Total income/Total expense,retained,,0.0,False
+cv_training,4,1.0,Total expense/Assets,retained,,-0.17669680572320015,True
+cv_training,4,1.0,Current Asset Turnover Rate,retained,,0.05361991753160163,True
+cv_training,4,1.0,Quick Asset Turnover Rate,retained,,-0.04351329768030751,True
+cv_training,4,1.0,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,4,1.0,Cash Turnover Rate,retained,,-0.2825713163556665,True
+cv_training,4,1.0,Cash Flow to Sales,retained,,0.0,False
+cv_training,4,1.0,Fixed Assets to Assets,retained,,0.045342401258083476,True
+cv_training,4,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,4,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,4,1.0,Equity to Long-term Liability,retained,,-0.00417366026483869,True
+cv_training,4,1.0,Cash Flow to Total Assets,retained,,-0.29769798090351973,True
+cv_training,4,1.0,Cash Flow to Liability,retained,,-0.14745937751213237,True
+cv_training,4,1.0,CFO to Assets,retained,,-0.24649349967477494,True
+cv_training,4,1.0,Cash Flow to Equity,retained,,0.07501414500224206,True
+cv_training,4,1.0,Current Liability to Current Assets,retained,,0.07495199543593718,True
+cv_training,4,1.0,Liability-Assets Flag,retained,,-0.34769659871027103,True
+cv_training,4,1.0,Net Income to Total Assets,retained,,-0.9017893676795578,True
+cv_training,4,1.0,Total assets to GNP price,retained,,0.0020134531858461303,True
+cv_training,4,1.0,No-credit Interval,retained,,0.19758889773907798,True
+cv_training,4,1.0,Gross Profit to Sales,retained,,0.05919408076372831,True
+cv_training,4,1.0,Net Income to Stockholder's Equity,retained,,0.2670973147696993,True
+cv_training,4,1.0,Liability to Equity,retained,,0.0,False
+cv_training,4,1.0,Degree of Financial Leverage (DFL),retained,,0.05648554904065383,True
+cv_training,4,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.014336876217461303,True
+cv_training,4,1.0,Net Income Flag,constant,,,False
+cv_training,4,1.0,Equity to Liability,retained,,-0.8101051086410704,True
+cv_training,4,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.3932170720678096,True
+cv_training,4,10.0,ROA(A) before interest and % after tax,retained,,0.44197891594236893,True
+cv_training,4,10.0,ROA(B) before interest and depreciation after tax,retained,,-0.08065010665055224,True
+cv_training,4,10.0,Operating Gross Margin,retained,,0.06185596954031769,True
+cv_training,4,10.0,Realized Sales Gross Margin,retained,,0.11654685715387392,True
+cv_training,4,10.0,Operating Profit Rate,retained,,0.20301149540895305,True
+cv_training,4,10.0,Pre-tax net Interest Rate,retained,,0.014416366191265585,True
+cv_training,4,10.0,After-tax net Interest Rate,retained,,0.008054278225661158,True
+cv_training,4,10.0,Non-industry income and expenditure/revenue,retained,,-0.5438578445227369,True
+cv_training,4,10.0,Continuous interest rate (after tax),retained,,0.0007583867571858175,True
+cv_training,4,10.0,Operating Expense Rate,retained,,-0.06678564850773727,True
+cv_training,4,10.0,Research and development expense rate,retained,,0.08258353902838361,True
+cv_training,4,10.0,Cash flow rate,retained,,-0.24426627241271803,True
+cv_training,4,10.0,Interest-bearing debt interest rate,retained,,0.01691204443651911,True
+cv_training,4,10.0,Tax rate (A),retained,,-0.0245765071027264,True
+cv_training,4,10.0,Net Value Per Share (B),retained,,-0.4108372323510697,True
+cv_training,4,10.0,Net Value Per Share (A),retained,,-0.20949877484504073,True
+cv_training,4,10.0,Net Value Per Share (C),retained,,-0.04320970319363772,True
+cv_training,4,10.0,Persistent EPS in the Last Four Seasons,retained,,-1.175664094293787,True
+cv_training,4,10.0,Cash Flow Per Share,retained,,0.3579283180899251,True
+cv_training,4,10.0,Revenue Per Share (Yuan ¥),retained,,0.0074675560271263855,True
+cv_training,4,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.5793735869374402,True
+cv_training,4,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.1938746556636383,True
+cv_training,4,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.1383932241174519,True
+cv_training,4,10.0,Operating Profit Growth Rate,retained,,-0.4899716431157143,True
+cv_training,4,10.0,After-tax Net Profit Growth Rate,retained,,-0.030771556722266443,True
+cv_training,4,10.0,Regular Net Profit Growth Rate,retained,,0.06153773694079685,True
+cv_training,4,10.0,Continuous Net Profit Growth Rate,retained,,0.1294567833252568,True
+cv_training,4,10.0,Total Asset Growth Rate,retained,,-0.16331474647766886,True
+cv_training,4,10.0,Net Value Growth Rate,retained,,0.002201698690153695,True
+cv_training,4,10.0,Total Asset Return Growth Rate Ratio,retained,,0.4756906177135522,True
+cv_training,4,10.0,Cash Reinvestment %,retained,,0.18755216316418977,True
+cv_training,4,10.0,Current Ratio,retained,,-0.21328727582350748,True
+cv_training,4,10.0,Quick Ratio,retained,,-0.07187608506279176,True
+cv_training,4,10.0,Interest Expense Ratio,retained,,0.010612501402503988,True
+cv_training,4,10.0,Total debt/Total net worth,retained,,0.003133790038117017,True
+cv_training,4,10.0,Debt ratio %,retained,,0.6368598502198823,True
+cv_training,4,10.0,Net worth/Assets,retained,,-0.6368598502197084,True
+cv_training,4,10.0,Long-term fund suitability ratio (A),retained,,0.11974198413540248,True
+cv_training,4,10.0,Borrowing dependency,retained,,0.40098212728967564,True
+cv_training,4,10.0,Contingent liabilities/Net worth,retained,,0.07884472809920637,True
+cv_training,4,10.0,Operating profit/Paid-in capital,retained,,0.5632516062971653,True
+cv_training,4,10.0,Net profit before tax/Paid-in capital,retained,,-0.458654997939744,True
+cv_training,4,10.0,Inventory and accounts receivable/Net value,retained,,-0.10425450792888709,True
+cv_training,4,10.0,Total Asset Turnover,retained,,0.011114732903650512,True
+cv_training,4,10.0,Accounts Receivable Turnover,retained,,-0.4940577279004155,True
+cv_training,4,10.0,Average Collection Days,retained,,-0.15975719198141886,True
+cv_training,4,10.0,Inventory Turnover Rate (times),retained,,-0.007745527272836666,True
+cv_training,4,10.0,Fixed Assets Turnover Frequency,retained,,0.24277467669484493,True
+cv_training,4,10.0,Net Worth Turnover Rate (times),retained,,-0.859601859528149,True
+cv_training,4,10.0,Revenue per person,retained,,0.2397121169650902,True
+cv_training,4,10.0,Operating profit per person,retained,,-0.18089257007210263,True
+cv_training,4,10.0,Allocation rate per person,retained,,-0.13096111248316084,True
+cv_training,4,10.0,Working Capital to Total Assets,retained,,0.09768425094653614,True
+cv_training,4,10.0,Quick Assets/Total Assets,retained,,0.020077611076898073,True
+cv_training,4,10.0,Current Assets/Total Assets,retained,,-0.037817584070839814,True
+cv_training,4,10.0,Cash/Total Assets,retained,,-0.35999843883327826,True
+cv_training,4,10.0,Quick Assets/Current Liability,retained,,-0.08052801665441925,True
+cv_training,4,10.0,Cash/Current Liability,retained,,0.04702689862705103,True
+cv_training,4,10.0,Current Liability to Assets,retained,,-0.19540715824484878,True
+cv_training,4,10.0,Operating Funds to Liability,retained,,-0.3020996452780362,True
+cv_training,4,10.0,Inventory/Working Capital,retained,,-0.03796476439470247,True
+cv_training,4,10.0,Inventory/Current Liability,retained,,-0.1465991802767243,True
+cv_training,4,10.0,Current Liabilities/Liability,retained,,0.21212522416169427,True
+cv_training,4,10.0,Working Capital/Equity,retained,,-0.028430874377685045,True
+cv_training,4,10.0,Current Liabilities/Equity,retained,,0.2166537241820566,True
+cv_training,4,10.0,Long-term Liability to Current Assets,retained,,0.030560593759597427,True
+cv_training,4,10.0,Retained Earnings to Total Assets,retained,,0.5223955721807383,True
+cv_training,4,10.0,Total income/Total expense,retained,,0.0,False
+cv_training,4,10.0,Total expense/Assets,retained,,-0.2272473001699928,True
+cv_training,4,10.0,Current Asset Turnover Rate,retained,,0.07853143860280971,True
+cv_training,4,10.0,Quick Asset Turnover Rate,retained,,-0.06726205392588104,True
+cv_training,4,10.0,Working capitcal Turnover Rate,retained,,0.3058037055568503,True
+cv_training,4,10.0,Cash Turnover Rate,retained,,-0.3013132761237915,True
+cv_training,4,10.0,Cash Flow to Sales,retained,,0.12561464584083964,True
+cv_training,4,10.0,Fixed Assets to Assets,retained,,0.09825871446683634,True
+cv_training,4,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,4,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,4,10.0,Equity to Long-term Liability,retained,,-0.0811399276187686,True
+cv_training,4,10.0,Cash Flow to Total Assets,retained,,-0.3105061984684652,True
+cv_training,4,10.0,Cash Flow to Liability,retained,,-0.1922602209674107,True
+cv_training,4,10.0,CFO to Assets,retained,,-0.3246244450542347,True
+cv_training,4,10.0,Cash Flow to Equity,retained,,0.08381277530277892,True
+cv_training,4,10.0,Current Liability to Current Assets,retained,,0.09193906443219817,True
+cv_training,4,10.0,Liability-Assets Flag,retained,,-0.33722009993254176,True
+cv_training,4,10.0,Net Income to Total Assets,retained,,-1.0565762360682223,True
+cv_training,4,10.0,Total assets to GNP price,retained,,0.014767452748381895,True
+cv_training,4,10.0,No-credit Interval,retained,,0.23672526074225336,True
+cv_training,4,10.0,Gross Profit to Sales,retained,,0.06147089687273424,True
+cv_training,4,10.0,Net Income to Stockholder's Equity,retained,,0.3035871988455366,True
+cv_training,4,10.0,Liability to Equity,retained,,-0.17984654805657324,True
+cv_training,4,10.0,Degree of Financial Leverage (DFL),retained,,0.06153407888629822,True
+cv_training,4,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.022242129035766674,True
+cv_training,4,10.0,Net Income Flag,constant,,,False
+cv_training,4,10.0,Equity to Liability,retained,,-0.9098108217340977,True
+cv_training,5,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,5,0.01,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,5,0.01,ROA(B) before interest and depreciation after tax,retained,,0.0,False
+cv_training,5,0.01,Operating Gross Margin,retained,,0.0,False
+cv_training,5,0.01,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,5,0.01,Operating Profit Rate,retained,,0.0,False
+cv_training,5,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,5,0.01,After-tax net Interest Rate,retained,,0.0,False
+cv_training,5,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,5,0.01,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,5,0.01,Operating Expense Rate,retained,,0.0,False
+cv_training,5,0.01,Research and development expense rate,retained,,0.0,False
+cv_training,5,0.01,Cash flow rate,retained,,0.0,False
+cv_training,5,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,5,0.01,Tax rate (A),retained,,0.0,False
+cv_training,5,0.01,Net Value Per Share (B),retained,,0.0,False
+cv_training,5,0.01,Net Value Per Share (A),retained,,0.0,False
+cv_training,5,0.01,Net Value Per Share (C),retained,,0.0,False
+cv_training,5,0.01,Persistent EPS in the Last Four Seasons,retained,,-0.007590852749013941,True
+cv_training,5,0.01,Cash Flow Per Share,retained,,0.0,False
+cv_training,5,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,5,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Total Asset Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Net Value Growth Rate,retained,,0.0,False
+cv_training,5,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,5,0.01,Cash Reinvestment %,retained,,0.0,False
+cv_training,5,0.01,Current Ratio,retained,,0.0,False
+cv_training,5,0.01,Quick Ratio,retained,,0.0,False
+cv_training,5,0.01,Interest Expense Ratio,retained,,0.0,False
+cv_training,5,0.01,Total debt/Total net worth,retained,,0.0,False
+cv_training,5,0.01,Debt ratio %,retained,,0.16723765947768116,True
+cv_training,5,0.01,Net worth/Assets,retained,,-0.16723765947764407,True
+cv_training,5,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+cv_training,5,0.01,Borrowing dependency,retained,,0.01774479807290713,True
+cv_training,5,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,5,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,5,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,5,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+cv_training,5,0.01,Total Asset Turnover,retained,,0.0,False
+cv_training,5,0.01,Accounts Receivable Turnover,retained,,0.0,False
+cv_training,5,0.01,Average Collection Days,retained,,0.0,False
+cv_training,5,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,5,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+cv_training,5,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+cv_training,5,0.01,Revenue per person,retained,,0.0,False
+cv_training,5,0.01,Operating profit per person,retained,,0.0,False
+cv_training,5,0.01,Allocation rate per person,retained,,0.0,False
+cv_training,5,0.01,Working Capital to Total Assets,retained,,0.0,False
+cv_training,5,0.01,Quick Assets/Total Assets,retained,,0.0,False
+cv_training,5,0.01,Current Assets/Total Assets,retained,,0.0,False
+cv_training,5,0.01,Cash/Total Assets,retained,,0.0,False
+cv_training,5,0.01,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,5,0.01,Cash/Current Liability,retained,,0.0,False
+cv_training,5,0.01,Current Liability to Assets,retained,,0.0,False
+cv_training,5,0.01,Operating Funds to Liability,retained,,0.0,False
+cv_training,5,0.01,Inventory/Working Capital,retained,,0.0,False
+cv_training,5,0.01,Inventory/Current Liability,retained,,0.0,False
+cv_training,5,0.01,Current Liabilities/Liability,retained,,0.0,False
+cv_training,5,0.01,Working Capital/Equity,retained,,0.0,False
+cv_training,5,0.01,Current Liabilities/Equity,retained,,0.0,False
+cv_training,5,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,5,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+cv_training,5,0.01,Total income/Total expense,retained,,0.0,False
+cv_training,5,0.01,Total expense/Assets,retained,,0.0,False
+cv_training,5,0.01,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,5,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,5,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,5,0.01,Cash Turnover Rate,retained,,0.0,False
+cv_training,5,0.01,Cash Flow to Sales,retained,,0.0,False
+cv_training,5,0.01,Fixed Assets to Assets,retained,,0.0,False
+cv_training,5,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,5,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,5,0.01,Equity to Long-term Liability,retained,,0.0,False
+cv_training,5,0.01,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,5,0.01,Cash Flow to Liability,retained,,0.0,False
+cv_training,5,0.01,CFO to Assets,retained,,0.0,False
+cv_training,5,0.01,Cash Flow to Equity,retained,,0.0,False
+cv_training,5,0.01,Current Liability to Current Assets,retained,,0.0,False
+cv_training,5,0.01,Liability-Assets Flag,retained,,0.0,False
+cv_training,5,0.01,Net Income to Total Assets,retained,,-0.43389816100996004,True
+cv_training,5,0.01,Total assets to GNP price,retained,,0.0,False
+cv_training,5,0.01,No-credit Interval,retained,,0.0,False
+cv_training,5,0.01,Gross Profit to Sales,retained,,0.0,False
+cv_training,5,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,5,0.01,Liability to Equity,retained,,0.0,False
+cv_training,5,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,5,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,5,0.01,Net Income Flag,constant,,,False
+cv_training,5,0.01,Equity to Liability,retained,,0.0,False
+cv_training,5,0.1,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+cv_training,5,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+cv_training,5,0.1,ROA(B) before interest and depreciation after tax,retained,,-0.1554223611168297,True
+cv_training,5,0.1,Operating Gross Margin,retained,,0.0,False
+cv_training,5,0.1,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,5,0.1,Operating Profit Rate,retained,,0.021586257214572448,True
+cv_training,5,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,5,0.1,After-tax net Interest Rate,retained,,0.0,False
+cv_training,5,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+cv_training,5,0.1,Continuous interest rate (after tax),retained,,0.0,False
+cv_training,5,0.1,Operating Expense Rate,retained,,0.044685842193503085,True
+cv_training,5,0.1,Research and development expense rate,retained,,0.0,False
+cv_training,5,0.1,Cash flow rate,retained,,0.0,False
+cv_training,5,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+cv_training,5,0.1,Tax rate (A),retained,,0.0,False
+cv_training,5,0.1,Net Value Per Share (B),retained,,-0.083201559903991,True
+cv_training,5,0.1,Net Value Per Share (A),retained,,-0.040541496991049294,True
+cv_training,5,0.1,Net Value Per Share (C),retained,,0.0,False
+cv_training,5,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.7362030992472541,True
+cv_training,5,0.1,Cash Flow Per Share,retained,,0.0,False
+cv_training,5,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,5,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.11904779496559953,True
+cv_training,5,0.1,Operating Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.1,Regular Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.1,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,0.1,Total Asset Growth Rate,retained,,0.0,False
+cv_training,5,0.1,Net Value Growth Rate,retained,,0.0,False
+cv_training,5,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+cv_training,5,0.1,Cash Reinvestment %,retained,,0.03761962929006656,True
+cv_training,5,0.1,Current Ratio,retained,,0.0,False
+cv_training,5,0.1,Quick Ratio,retained,,0.015248162995135602,True
+cv_training,5,0.1,Interest Expense Ratio,retained,,0.0,False
+cv_training,5,0.1,Total debt/Total net worth,retained,,0.10178165160344126,True
+cv_training,5,0.1,Debt ratio %,retained,,0.5006316163193354,True
+cv_training,5,0.1,Net worth/Assets,retained,,-0.5006316163193669,True
+cv_training,5,0.1,Long-term fund suitability ratio (A),retained,,0.022770926057907682,True
+cv_training,5,0.1,Borrowing dependency,retained,,0.0,False
+cv_training,5,0.1,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,5,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+cv_training,5,0.1,Net profit before tax/Paid-in capital,retained,,0.0,False
+cv_training,5,0.1,Inventory and accounts receivable/Net value,retained,,-0.0781791318006946,True
+cv_training,5,0.1,Total Asset Turnover,retained,,-0.35235047938753916,True
+cv_training,5,0.1,Accounts Receivable Turnover,retained,,-0.09245312563986705,True
+cv_training,5,0.1,Average Collection Days,retained,,0.0,False
+cv_training,5,0.1,Inventory Turnover Rate (times),retained,,0.0,False
+cv_training,5,0.1,Fixed Assets Turnover Frequency,retained,,0.20079114312763618,True
+cv_training,5,0.1,Net Worth Turnover Rate (times),retained,,-0.02703721182089867,True
+cv_training,5,0.1,Revenue per person,retained,,0.0,False
+cv_training,5,0.1,Operating profit per person,retained,,0.0,False
+cv_training,5,0.1,Allocation rate per person,retained,,0.0,False
+cv_training,5,0.1,Working Capital to Total Assets,retained,,0.0,False
+cv_training,5,0.1,Quick Assets/Total Assets,retained,,-0.013801686633518644,True
+cv_training,5,0.1,Current Assets/Total Assets,retained,,0.0,False
+cv_training,5,0.1,Cash/Total Assets,retained,,-0.2453202950117772,True
+cv_training,5,0.1,Quick Assets/Current Liability,retained,,0.0,False
+cv_training,5,0.1,Cash/Current Liability,retained,,0.042122706079456236,True
+cv_training,5,0.1,Current Liability to Assets,retained,,0.0,False
+cv_training,5,0.1,Operating Funds to Liability,retained,,0.0,False
+cv_training,5,0.1,Inventory/Working Capital,retained,,0.0,False
+cv_training,5,0.1,Inventory/Current Liability,retained,,0.0,False
+cv_training,5,0.1,Current Liabilities/Liability,retained,,0.0,False
+cv_training,5,0.1,Working Capital/Equity,retained,,-0.005416808567730724,True
+cv_training,5,0.1,Current Liabilities/Equity,retained,,0.0,False
+cv_training,5,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+cv_training,5,0.1,Retained Earnings to Total Assets,retained,,0.2006065916910505,True
+cv_training,5,0.1,Total income/Total expense,retained,,0.0,False
+cv_training,5,0.1,Total expense/Assets,retained,,0.0,False
+cv_training,5,0.1,Current Asset Turnover Rate,retained,,0.0,False
+cv_training,5,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+cv_training,5,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+cv_training,5,0.1,Cash Turnover Rate,retained,,-0.053994093838957535,True
+cv_training,5,0.1,Cash Flow to Sales,retained,,0.0,False
+cv_training,5,0.1,Fixed Assets to Assets,retained,,0.03864166038155776,True
+cv_training,5,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,5,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,5,0.1,Equity to Long-term Liability,retained,,0.0,False
+cv_training,5,0.1,Cash Flow to Total Assets,retained,,0.0,False
+cv_training,5,0.1,Cash Flow to Liability,retained,,-0.20459166673728088,True
+cv_training,5,0.1,CFO to Assets,retained,,0.0,False
+cv_training,5,0.1,Cash Flow to Equity,retained,,-0.03088263241861257,True
+cv_training,5,0.1,Current Liability to Current Assets,retained,,0.0004624685450767567,True
+cv_training,5,0.1,Liability-Assets Flag,retained,,-0.13078623218918464,True
+cv_training,5,0.1,Net Income to Total Assets,retained,,-0.40403985681077825,True
+cv_training,5,0.1,Total assets to GNP price,retained,,0.0,False
+cv_training,5,0.1,No-credit Interval,retained,,0.0,False
+cv_training,5,0.1,Gross Profit to Sales,retained,,0.0,False
+cv_training,5,0.1,Net Income to Stockholder's Equity,retained,,0.0,False
+cv_training,5,0.1,Liability to Equity,retained,,0.0,False
+cv_training,5,0.1,Degree of Financial Leverage (DFL),retained,,0.0,False
+cv_training,5,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+cv_training,5,0.1,Net Income Flag,constant,,,False
+cv_training,5,0.1,Equity to Liability,retained,,0.0,False
+cv_training,5,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.05568061631575319,True
+cv_training,5,1.0,ROA(A) before interest and % after tax,retained,,0.21790364974622775,True
+cv_training,5,1.0,ROA(B) before interest and depreciation after tax,retained,,-0.29873251224609637,True
+cv_training,5,1.0,Operating Gross Margin,retained,,0.0,False
+cv_training,5,1.0,Realized Sales Gross Margin,retained,,0.021519633456557767,True
+cv_training,5,1.0,Operating Profit Rate,retained,,0.48276803843656724,True
+cv_training,5,1.0,Pre-tax net Interest Rate,retained,,0.0,False
+cv_training,5,1.0,After-tax net Interest Rate,retained,,-0.08893094992414945,True
+cv_training,5,1.0,Non-industry income and expenditure/revenue,retained,,-0.11953523622386777,True
+cv_training,5,1.0,Continuous interest rate (after tax),retained,,-0.31259004962888254,True
+cv_training,5,1.0,Operating Expense Rate,retained,,0.17486189284169143,True
+cv_training,5,1.0,Research and development expense rate,retained,,0.11189660823012466,True
+cv_training,5,1.0,Cash flow rate,retained,,-0.25536328704531297,True
+cv_training,5,1.0,Interest-bearing debt interest rate,retained,,0.029594858011776564,True
+cv_training,5,1.0,Tax rate (A),retained,,-0.0015238268177066717,True
+cv_training,5,1.0,Net Value Per Share (B),retained,,-0.23513292421501714,True
+cv_training,5,1.0,Net Value Per Share (A),retained,,-0.09137315909776415,True
+cv_training,5,1.0,Net Value Per Share (C),retained,,0.0,False
+cv_training,5,1.0,Persistent EPS in the Last Four Seasons,retained,,-0.7858573286943792,True
+cv_training,5,1.0,Cash Flow Per Share,retained,,0.0,False
+cv_training,5,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.24298684315517127,True
+cv_training,5,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+cv_training,5,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.18495323154617663,True
+cv_training,5,1.0,Operating Profit Growth Rate,retained,,-0.3113418155736425,True
+cv_training,5,1.0,After-tax Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,1.0,Regular Net Profit Growth Rate,retained,,0.04434727272139181,True
+cv_training,5,1.0,Continuous Net Profit Growth Rate,retained,,0.0,False
+cv_training,5,1.0,Total Asset Growth Rate,retained,,-0.10267656351010757,True
+cv_training,5,1.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,5,1.0,Total Asset Return Growth Rate Ratio,retained,,0.2640274093127755,True
+cv_training,5,1.0,Cash Reinvestment %,retained,,0.15082532360990958,True
+cv_training,5,1.0,Current Ratio,retained,,-0.3907752696195073,True
+cv_training,5,1.0,Quick Ratio,retained,,-0.0762094431256583,True
+cv_training,5,1.0,Interest Expense Ratio,retained,,-0.002192321116728096,True
+cv_training,5,1.0,Total debt/Total net worth,retained,,0.4012957015214533,True
+cv_training,5,1.0,Debt ratio %,retained,,0.6276407145484261,True
+cv_training,5,1.0,Net worth/Assets,retained,,-0.6276407145484095,True
+cv_training,5,1.0,Long-term fund suitability ratio (A),retained,,0.07382237996150175,True
+cv_training,5,1.0,Borrowing dependency,retained,,0.7070865951953111,True
+cv_training,5,1.0,Contingent liabilities/Net worth,retained,,0.0,False
+cv_training,5,1.0,Operating profit/Paid-in capital,retained,,0.20591235603910282,True
+cv_training,5,1.0,Net profit before tax/Paid-in capital,retained,,-0.015962158944049412,True
+cv_training,5,1.0,Inventory and accounts receivable/Net value,retained,,-0.3934748395572614,True
+cv_training,5,1.0,Total Asset Turnover,retained,,-0.48910740485897,True
+cv_training,5,1.0,Accounts Receivable Turnover,retained,,-0.41310287799584755,True
+cv_training,5,1.0,Average Collection Days,retained,,0.0,False
+cv_training,5,1.0,Inventory Turnover Rate (times),retained,,0.003798663960378971,True
+cv_training,5,1.0,Fixed Assets Turnover Frequency,retained,,0.2655793138950338,True
+cv_training,5,1.0,Net Worth Turnover Rate (times),retained,,-0.1531488801106846,True
+cv_training,5,1.0,Revenue per person,retained,,0.0,False
+cv_training,5,1.0,Operating profit per person,retained,,-0.1724093146106553,True
+cv_training,5,1.0,Allocation rate per person,retained,,0.0,False
+cv_training,5,1.0,Working Capital to Total Assets,retained,,0.22765326002281433,True
+cv_training,5,1.0,Quick Assets/Total Assets,retained,,-0.036456114460016016,True
+cv_training,5,1.0,Current Assets/Total Assets,retained,,0.0,False
+cv_training,5,1.0,Cash/Total Assets,retained,,-0.5383356407855349,True
+cv_training,5,1.0,Quick Assets/Current Liability,retained,,-0.02225674887327618,True
+cv_training,5,1.0,Cash/Current Liability,retained,,0.05274386499425346,True
+cv_training,5,1.0,Current Liability to Assets,retained,,-0.25184445545480033,True
+cv_training,5,1.0,Operating Funds to Liability,retained,,-0.08336857301927864,True
+cv_training,5,1.0,Inventory/Working Capital,retained,,-0.2418104142416722,True
+cv_training,5,1.0,Inventory/Current Liability,retained,,0.04724149246427586,True
+cv_training,5,1.0,Current Liabilities/Liability,retained,,0.35585440068891677,True
+cv_training,5,1.0,Working Capital/Equity,retained,,-0.01634237596552415,True
+cv_training,5,1.0,Current Liabilities/Equity,retained,,0.06213588507529421,True
+cv_training,5,1.0,Long-term Liability to Current Assets,retained,,0.012458973647423018,True
+cv_training,5,1.0,Retained Earnings to Total Assets,retained,,0.5445281718574304,True
+cv_training,5,1.0,Total income/Total expense,retained,,0.0,False
+cv_training,5,1.0,Total expense/Assets,retained,,0.0,False
+cv_training,5,1.0,Current Asset Turnover Rate,retained,,0.13909979524801222,True
+cv_training,5,1.0,Quick Asset Turnover Rate,retained,,-0.013871332566574671,True
+cv_training,5,1.0,Working capitcal Turnover Rate,retained,,0.22677627960199048,True
+cv_training,5,1.0,Cash Turnover Rate,retained,,-0.19202786947575134,True
+cv_training,5,1.0,Cash Flow to Sales,retained,,0.0,False
+cv_training,5,1.0,Fixed Assets to Assets,retained,,0.03802247169564444,True
+cv_training,5,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,5,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,5,1.0,Equity to Long-term Liability,retained,,-0.1711286973194931,True
+cv_training,5,1.0,Cash Flow to Total Assets,retained,,-0.08157258670361821,True
+cv_training,5,1.0,Cash Flow to Liability,retained,,-0.35698887540569985,True
+cv_training,5,1.0,CFO to Assets,retained,,-0.043040864496793604,True
+cv_training,5,1.0,Cash Flow to Equity,retained,,-0.07514839925408215,True
+cv_training,5,1.0,Current Liability to Current Assets,retained,,-0.06225486967089669,True
+cv_training,5,1.0,Liability-Assets Flag,retained,,-0.2020003629826404,True
+cv_training,5,1.0,Net Income to Total Assets,retained,,-0.9568300851616784,True
+cv_training,5,1.0,Total assets to GNP price,retained,,0.02390558992139748,True
+cv_training,5,1.0,No-credit Interval,retained,,0.023686917605005606,True
+cv_training,5,1.0,Gross Profit to Sales,retained,,0.0,False
+cv_training,5,1.0,Net Income to Stockholder's Equity,retained,,0.30817593518773717,True
+cv_training,5,1.0,Liability to Equity,retained,,-0.011940158194706722,True
+cv_training,5,1.0,Degree of Financial Leverage (DFL),retained,,0.049770130450290655,True
+cv_training,5,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.02172237262111964,True
+cv_training,5,1.0,Net Income Flag,constant,,,False
+cv_training,5,1.0,Equity to Liability,retained,,-0.47888259873137545,True
+cv_training,5,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.17531602047283593,True
+cv_training,5,10.0,ROA(A) before interest and % after tax,retained,,0.556212415695232,True
+cv_training,5,10.0,ROA(B) before interest and depreciation after tax,retained,,-0.39610794391575715,True
+cv_training,5,10.0,Operating Gross Margin,retained,,-0.0024975496191602204,True
+cv_training,5,10.0,Realized Sales Gross Margin,retained,,0.0,False
+cv_training,5,10.0,Operating Profit Rate,retained,,0.5504749600862278,True
+cv_training,5,10.0,Pre-tax net Interest Rate,retained,,0.004199013403829207,True
+cv_training,5,10.0,After-tax net Interest Rate,retained,,-0.21398540982086164,True
+cv_training,5,10.0,Non-industry income and expenditure/revenue,retained,,-0.1402185352892901,True
+cv_training,5,10.0,Continuous interest rate (after tax),retained,,-0.4651767895294402,True
+cv_training,5,10.0,Operating Expense Rate,retained,,0.19095607195737474,True
+cv_training,5,10.0,Research and development expense rate,retained,,0.14151923891118384,True
+cv_training,5,10.0,Cash flow rate,retained,,-0.3015876298073975,True
+cv_training,5,10.0,Interest-bearing debt interest rate,retained,,0.06874763436707183,True
+cv_training,5,10.0,Tax rate (A),retained,,-0.004669935308214426,True
+cv_training,5,10.0,Net Value Per Share (B),retained,,-0.34220454123785576,True
+cv_training,5,10.0,Net Value Per Share (A),retained,,-0.11872584961855301,True
+cv_training,5,10.0,Net Value Per Share (C),retained,,0.043806421292855176,True
+cv_training,5,10.0,Persistent EPS in the Last Four Seasons,retained,,-0.9345634901402063,True
+cv_training,5,10.0,Cash Flow Per Share,retained,,-0.0009478053346064079,True
+cv_training,5,10.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+cv_training,5,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.29216775377956367,True
+cv_training,5,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.25587702559844305,True
+cv_training,5,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.19361040923640305,True
+cv_training,5,10.0,Operating Profit Growth Rate,retained,,-0.5816542478455093,True
+cv_training,5,10.0,After-tax Net Profit Growth Rate,retained,,-0.0674318173401823,True
+cv_training,5,10.0,Regular Net Profit Growth Rate,retained,,0.12499616985753963,True
+cv_training,5,10.0,Continuous Net Profit Growth Rate,retained,,0.0673310389903904,True
+cv_training,5,10.0,Total Asset Growth Rate,retained,,-0.13984594256435903,True
+cv_training,5,10.0,Net Value Growth Rate,retained,,0.0,False
+cv_training,5,10.0,Total Asset Return Growth Rate Ratio,retained,,0.5262813012384563,True
+cv_training,5,10.0,Cash Reinvestment %,retained,,0.1605286691023065,True
+cv_training,5,10.0,Current Ratio,retained,,-0.789716266863255,True
+cv_training,5,10.0,Quick Ratio,retained,,-0.13318095410272704,True
+cv_training,5,10.0,Interest Expense Ratio,retained,,-0.005729767799266907,True
+cv_training,5,10.0,Total debt/Total net worth,retained,,0.605210001440819,True
+cv_training,5,10.0,Debt ratio %,retained,,0.8295987218364664,True
+cv_training,5,10.0,Net worth/Assets,retained,,-0.8295987218363031,True
+cv_training,5,10.0,Long-term fund suitability ratio (A),retained,,0.08055140357945909,True
+cv_training,5,10.0,Borrowing dependency,retained,,0.9540450248710436,True
+cv_training,5,10.0,Contingent liabilities/Net worth,retained,,-0.08926798868670219,True
+cv_training,5,10.0,Operating profit/Paid-in capital,retained,,0.25013771368954374,True
+cv_training,5,10.0,Net profit before tax/Paid-in capital,retained,,-0.13274810632548265,True
+cv_training,5,10.0,Inventory and accounts receivable/Net value,retained,,-0.5463146567052388,True
+cv_training,5,10.0,Total Asset Turnover,retained,,-0.4650698425098917,True
+cv_training,5,10.0,Accounts Receivable Turnover,retained,,-0.6608149132394385,True
+cv_training,5,10.0,Average Collection Days,retained,,-0.1145673456760531,True
+cv_training,5,10.0,Inventory Turnover Rate (times),retained,,0.024098288580629443,True
+cv_training,5,10.0,Fixed Assets Turnover Frequency,retained,,0.2773024068728709,True
+cv_training,5,10.0,Net Worth Turnover Rate (times),retained,,-0.1898520895283658,True
+cv_training,5,10.0,Revenue per person,retained,,-0.022448966200912402,True
+cv_training,5,10.0,Operating profit per person,retained,,-0.19267934495330083,True
+cv_training,5,10.0,Allocation rate per person,retained,,-0.005885110763376309,True
+cv_training,5,10.0,Working Capital to Total Assets,retained,,0.38080066023952835,True
+cv_training,5,10.0,Quick Assets/Total Assets,retained,,-0.053555182035930765,True
+cv_training,5,10.0,Current Assets/Total Assets,retained,,-0.07896397519489814,True
+cv_training,5,10.0,Cash/Total Assets,retained,,-0.584053973791556,True
+cv_training,5,10.0,Quick Assets/Current Liability,retained,,-0.06909239293113621,True
+cv_training,5,10.0,Cash/Current Liability,retained,,0.05174484763057737,True
+cv_training,5,10.0,Current Liability to Assets,retained,,-0.6218565007767755,True
+cv_training,5,10.0,Operating Funds to Liability,retained,,-0.22080327418216833,True
+cv_training,5,10.0,Inventory/Working Capital,retained,,-0.3002638374486851,True
+cv_training,5,10.0,Inventory/Current Liability,retained,,0.08812750547446337,True
+cv_training,5,10.0,Current Liabilities/Liability,retained,,0.6444238142245254,True
+cv_training,5,10.0,Working Capital/Equity,retained,,0.057046136486187116,True
+cv_training,5,10.0,Current Liabilities/Equity,retained,,0.3544483846584396,True
+cv_training,5,10.0,Long-term Liability to Current Assets,retained,,0.020257515424899935,True
+cv_training,5,10.0,Retained Earnings to Total Assets,retained,,0.6116705556413169,True
+cv_training,5,10.0,Total income/Total expense,retained,,0.0,False
+cv_training,5,10.0,Total expense/Assets,retained,,-0.006777199580730094,True
+cv_training,5,10.0,Current Asset Turnover Rate,retained,,0.1612556707205688,True
+cv_training,5,10.0,Quick Asset Turnover Rate,retained,,-0.05414953444701261,True
+cv_training,5,10.0,Working capitcal Turnover Rate,retained,,0.39881476654315906,True
+cv_training,5,10.0,Cash Turnover Rate,retained,,-0.2139261497786975,True
+cv_training,5,10.0,Cash Flow to Sales,retained,,0.20143689096421077,True
+cv_training,5,10.0,Fixed Assets to Assets,retained,,0.08343037868529504,True
+cv_training,5,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+cv_training,5,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+cv_training,5,10.0,Equity to Long-term Liability,retained,,-0.21589296796855423,True
+cv_training,5,10.0,Cash Flow to Total Assets,retained,,-0.05395328925300527,True
+cv_training,5,10.0,Cash Flow to Liability,retained,,-0.4565760832309065,True
+cv_training,5,10.0,CFO to Assets,retained,,0.020536973213479734,True
+cv_training,5,10.0,Cash Flow to Equity,retained,,-0.10804751511511343,True
+cv_training,5,10.0,Current Liability to Current Assets,retained,,-0.10691944739770037,True
+cv_training,5,10.0,Liability-Assets Flag,retained,,-0.16860257992277236,True
+cv_training,5,10.0,Net Income to Total Assets,retained,,-1.1464260033349847,True
+cv_training,5,10.0,Total assets to GNP price,retained,,0.04367266887565728,True
+cv_training,5,10.0,No-credit Interval,retained,,0.038224307538835316,True
+cv_training,5,10.0,Gross Profit to Sales,retained,,-0.002518195044923519,True
+cv_training,5,10.0,Net Income to Stockholder's Equity,retained,,0.319636175783775,True
+cv_training,5,10.0,Liability to Equity,retained,,-0.37005751451516183,True
+cv_training,5,10.0,Degree of Financial Leverage (DFL),retained,,0.056417057088431734,True
+cv_training,5,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.032858939152817,True
+cv_training,5,10.0,Net Income Flag,constant,,,False
+cv_training,5,10.0,Equity to Liability,retained,,-0.7864763580877456,True
+full_development,,0.01,ROA(C) before interest and depreciation before interest,retained,,0.0,False
+full_development,,0.01,ROA(A) before interest and % after tax,retained,,0.0,False
+full_development,,0.01,ROA(B) before interest and depreciation after tax,retained,,-0.09257491907289125,True
+full_development,,0.01,Operating Gross Margin,retained,,0.0,False
+full_development,,0.01,Realized Sales Gross Margin,retained,,0.0,False
+full_development,,0.01,Operating Profit Rate,retained,,0.0,False
+full_development,,0.01,Pre-tax net Interest Rate,retained,,0.0,False
+full_development,,0.01,After-tax net Interest Rate,retained,,0.0,False
+full_development,,0.01,Non-industry income and expenditure/revenue,retained,,0.0,False
+full_development,,0.01,Continuous interest rate (after tax),retained,,0.0,False
+full_development,,0.01,Operating Expense Rate,retained,,0.0,False
+full_development,,0.01,Research and development expense rate,retained,,0.0,False
+full_development,,0.01,Cash flow rate,retained,,0.0,False
+full_development,,0.01,Interest-bearing debt interest rate,retained,,0.0,False
+full_development,,0.01,Tax rate (A),retained,,0.0,False
+full_development,,0.01,Net Value Per Share (B),retained,,0.0,False
+full_development,,0.01,Net Value Per Share (A),retained,,0.0,False
+full_development,,0.01,Net Value Per Share (C),retained,,0.0,False
+full_development,,0.01,Persistent EPS in the Last Four Seasons,retained,,-0.09486246281848075,True
+full_development,,0.01,Cash Flow Per Share,retained,,0.0,False
+full_development,,0.01,Revenue Per Share (Yuan ¥),retained,,0.0,False
+full_development,,0.01,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+full_development,,0.01,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+full_development,,0.01,Realized Sales Gross Profit Growth Rate,retained,,0.0,False
+full_development,,0.01,Operating Profit Growth Rate,retained,,0.0,False
+full_development,,0.01,After-tax Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.01,Regular Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.01,Continuous Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.01,Total Asset Growth Rate,retained,,0.0,False
+full_development,,0.01,Net Value Growth Rate,retained,,0.0,False
+full_development,,0.01,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+full_development,,0.01,Cash Reinvestment %,retained,,0.0,False
+full_development,,0.01,Current Ratio,retained,,0.0,False
+full_development,,0.01,Quick Ratio,retained,,0.0,False
+full_development,,0.01,Interest Expense Ratio,retained,,0.0,False
+full_development,,0.01,Total debt/Total net worth,retained,,0.0,False
+full_development,,0.01,Debt ratio %,retained,,0.22206827506184473,True
+full_development,,0.01,Net worth/Assets,retained,,-0.22206827506180912,True
+full_development,,0.01,Long-term fund suitability ratio (A),retained,,0.0,False
+full_development,,0.01,Borrowing dependency,retained,,0.012243025534917672,True
+full_development,,0.01,Contingent liabilities/Net worth,retained,,0.0,False
+full_development,,0.01,Operating profit/Paid-in capital,retained,,0.0,False
+full_development,,0.01,Net profit before tax/Paid-in capital,retained,,0.0,False
+full_development,,0.01,Inventory and accounts receivable/Net value,retained,,0.0,False
+full_development,,0.01,Total Asset Turnover,retained,,0.0,False
+full_development,,0.01,Accounts Receivable Turnover,retained,,0.0,False
+full_development,,0.01,Average Collection Days,retained,,0.0,False
+full_development,,0.01,Inventory Turnover Rate (times),retained,,0.0,False
+full_development,,0.01,Fixed Assets Turnover Frequency,retained,,0.0,False
+full_development,,0.01,Net Worth Turnover Rate (times),retained,,0.0,False
+full_development,,0.01,Revenue per person,retained,,0.0,False
+full_development,,0.01,Operating profit per person,retained,,0.0,False
+full_development,,0.01,Allocation rate per person,retained,,0.0,False
+full_development,,0.01,Working Capital to Total Assets,retained,,0.0,False
+full_development,,0.01,Quick Assets/Total Assets,retained,,0.0,False
+full_development,,0.01,Current Assets/Total Assets,retained,,0.0,False
+full_development,,0.01,Cash/Total Assets,retained,,0.0,False
+full_development,,0.01,Quick Assets/Current Liability,retained,,0.0,False
+full_development,,0.01,Cash/Current Liability,retained,,0.0,False
+full_development,,0.01,Current Liability to Assets,retained,,0.0,False
+full_development,,0.01,Operating Funds to Liability,retained,,0.0,False
+full_development,,0.01,Inventory/Working Capital,retained,,0.0,False
+full_development,,0.01,Inventory/Current Liability,retained,,0.0,False
+full_development,,0.01,Current Liabilities/Liability,retained,,0.0,False
+full_development,,0.01,Working Capital/Equity,retained,,0.0,False
+full_development,,0.01,Current Liabilities/Equity,retained,,0.0,False
+full_development,,0.01,Long-term Liability to Current Assets,retained,,0.0,False
+full_development,,0.01,Retained Earnings to Total Assets,retained,,0.0,False
+full_development,,0.01,Total income/Total expense,retained,,0.0,False
+full_development,,0.01,Total expense/Assets,retained,,0.0,False
+full_development,,0.01,Current Asset Turnover Rate,retained,,0.0,False
+full_development,,0.01,Quick Asset Turnover Rate,retained,,0.0,False
+full_development,,0.01,Working capitcal Turnover Rate,retained,,0.0,False
+full_development,,0.01,Cash Turnover Rate,retained,,0.0,False
+full_development,,0.01,Cash Flow to Sales,retained,,0.0,False
+full_development,,0.01,Fixed Assets to Assets,retained,,0.0,False
+full_development,,0.01,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+full_development,,0.01,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+full_development,,0.01,Equity to Long-term Liability,retained,,0.0,False
+full_development,,0.01,Cash Flow to Total Assets,retained,,0.0,False
+full_development,,0.01,Cash Flow to Liability,retained,,0.0,False
+full_development,,0.01,CFO to Assets,retained,,0.0,False
+full_development,,0.01,Cash Flow to Equity,retained,,0.0,False
+full_development,,0.01,Current Liability to Current Assets,retained,,0.0,False
+full_development,,0.01,Liability-Assets Flag,retained,,0.0,False
+full_development,,0.01,Net Income to Total Assets,retained,,-0.37182683015613677,True
+full_development,,0.01,Total assets to GNP price,retained,,0.0,False
+full_development,,0.01,No-credit Interval,retained,,0.0,False
+full_development,,0.01,Gross Profit to Sales,retained,,0.0,False
+full_development,,0.01,Net Income to Stockholder's Equity,retained,,0.0,False
+full_development,,0.01,Liability to Equity,retained,,0.0,False
+full_development,,0.01,Degree of Financial Leverage (DFL),retained,,0.0,False
+full_development,,0.01,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+full_development,,0.01,Net Income Flag,constant,,,False
+full_development,,0.01,Equity to Liability,retained,,0.0,False
+full_development,,0.1,ROA(C) before interest and depreciation before interest,retained,,-0.08689737322247122,True
+full_development,,0.1,ROA(A) before interest and % after tax,retained,,0.0,False
+full_development,,0.1,ROA(B) before interest and depreciation after tax,retained,,-0.19174632388123167,True
+full_development,,0.1,Operating Gross Margin,retained,,0.0,False
+full_development,,0.1,Realized Sales Gross Margin,retained,,0.0,False
+full_development,,0.1,Operating Profit Rate,retained,,0.0,False
+full_development,,0.1,Pre-tax net Interest Rate,retained,,0.0,False
+full_development,,0.1,After-tax net Interest Rate,retained,,0.0,False
+full_development,,0.1,Non-industry income and expenditure/revenue,retained,,0.0,False
+full_development,,0.1,Continuous interest rate (after tax),retained,,0.0,False
+full_development,,0.1,Operating Expense Rate,retained,,0.0,False
+full_development,,0.1,Research and development expense rate,retained,,0.0,False
+full_development,,0.1,Cash flow rate,retained,,0.0,False
+full_development,,0.1,Interest-bearing debt interest rate,retained,,0.0,False
+full_development,,0.1,Tax rate (A),retained,,-0.0334408170379665,True
+full_development,,0.1,Net Value Per Share (B),retained,,-0.1555320143877877,True
+full_development,,0.1,Net Value Per Share (A),retained,,-0.09280331125205274,True
+full_development,,0.1,Net Value Per Share (C),retained,,0.0,False
+full_development,,0.1,Persistent EPS in the Last Four Seasons,retained,,-0.598820026222615,True
+full_development,,0.1,Cash Flow Per Share,retained,,0.0,False
+full_development,,0.1,Revenue Per Share (Yuan ¥),retained,,0.0,False
+full_development,,0.1,Operating Profit Per Share (Yuan ¥),retained,,0.0,False
+full_development,,0.1,Per Share Net profit before tax (Yuan ¥),retained,,0.0,False
+full_development,,0.1,Realized Sales Gross Profit Growth Rate,retained,,0.09345279277705455,True
+full_development,,0.1,Operating Profit Growth Rate,retained,,0.0,False
+full_development,,0.1,After-tax Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.1,Regular Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.1,Continuous Net Profit Growth Rate,retained,,0.0,False
+full_development,,0.1,Total Asset Growth Rate,retained,,0.0,False
+full_development,,0.1,Net Value Growth Rate,retained,,0.0,False
+full_development,,0.1,Total Asset Return Growth Rate Ratio,retained,,0.0,False
+full_development,,0.1,Cash Reinvestment %,retained,,0.03768338189469227,True
+full_development,,0.1,Current Ratio,retained,,0.0,False
+full_development,,0.1,Quick Ratio,retained,,0.006923061062998684,True
+full_development,,0.1,Interest Expense Ratio,retained,,0.0,False
+full_development,,0.1,Total debt/Total net worth,retained,,0.09476990872623287,True
+full_development,,0.1,Debt ratio %,retained,,0.5170073966914684,True
+full_development,,0.1,Net worth/Assets,retained,,-0.5170073966914626,True
+full_development,,0.1,Long-term fund suitability ratio (A),retained,,0.0,False
+full_development,,0.1,Borrowing dependency,retained,,0.0,False
+full_development,,0.1,Contingent liabilities/Net worth,retained,,0.0,False
+full_development,,0.1,Operating profit/Paid-in capital,retained,,0.0,False
+full_development,,0.1,Net profit before tax/Paid-in capital,retained,,0.0,False
+full_development,,0.1,Inventory and accounts receivable/Net value,retained,,0.0,False
+full_development,,0.1,Total Asset Turnover,retained,,-0.23704745915789727,True
+full_development,,0.1,Accounts Receivable Turnover,retained,,-0.11398985298194078,True
+full_development,,0.1,Average Collection Days,retained,,0.0,False
+full_development,,0.1,Inventory Turnover Rate (times),retained,,0.0,False
+full_development,,0.1,Fixed Assets Turnover Frequency,retained,,0.20008603557940752,True
+full_development,,0.1,Net Worth Turnover Rate (times),retained,,-0.1439001814828367,True
+full_development,,0.1,Revenue per person,retained,,-0.010014325504125832,True
+full_development,,0.1,Operating profit per person,retained,,0.0,False
+full_development,,0.1,Allocation rate per person,retained,,0.0,False
+full_development,,0.1,Working Capital to Total Assets,retained,,0.0,False
+full_development,,0.1,Quick Assets/Total Assets,retained,,0.0,False
+full_development,,0.1,Current Assets/Total Assets,retained,,0.0,False
+full_development,,0.1,Cash/Total Assets,retained,,-0.24099788974597558,True
+full_development,,0.1,Quick Assets/Current Liability,retained,,0.0,False
+full_development,,0.1,Cash/Current Liability,retained,,0.05457625879672392,True
+full_development,,0.1,Current Liability to Assets,retained,,0.0,False
+full_development,,0.1,Operating Funds to Liability,retained,,0.0,False
+full_development,,0.1,Inventory/Working Capital,retained,,0.0,False
+full_development,,0.1,Inventory/Current Liability,retained,,0.0,False
+full_development,,0.1,Current Liabilities/Liability,retained,,0.0,False
+full_development,,0.1,Working Capital/Equity,retained,,-0.052980538937194344,True
+full_development,,0.1,Current Liabilities/Equity,retained,,0.0,False
+full_development,,0.1,Long-term Liability to Current Assets,retained,,0.0,False
+full_development,,0.1,Retained Earnings to Total Assets,retained,,0.16885894334632562,True
+full_development,,0.1,Total income/Total expense,retained,,0.0,False
+full_development,,0.1,Total expense/Assets,retained,,0.0,False
+full_development,,0.1,Current Asset Turnover Rate,retained,,0.0,False
+full_development,,0.1,Quick Asset Turnover Rate,retained,,0.0,False
+full_development,,0.1,Working capitcal Turnover Rate,retained,,0.0,False
+full_development,,0.1,Cash Turnover Rate,retained,,-0.11861717672214396,True
+full_development,,0.1,Cash Flow to Sales,retained,,0.0,False
+full_development,,0.1,Fixed Assets to Assets,retained,,0.04491699437890513,True
+full_development,,0.1,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+full_development,,0.1,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+full_development,,0.1,Equity to Long-term Liability,retained,,0.0,False
+full_development,,0.1,Cash Flow to Total Assets,retained,,0.0,False
+full_development,,0.1,Cash Flow to Liability,retained,,-0.19943881770901747,True
+full_development,,0.1,CFO to Assets,retained,,0.0,False
+full_development,,0.1,Cash Flow to Equity,retained,,-0.01562769778583522,True
+full_development,,0.1,Current Liability to Current Assets,retained,,0.009824534938108202,True
+full_development,,0.1,Liability-Assets Flag,retained,,-0.13724565170246175,True
+full_development,,0.1,Net Income to Total Assets,retained,,-0.3385945858060415,True
+full_development,,0.1,Total assets to GNP price,retained,,0.0,False
+full_development,,0.1,No-credit Interval,retained,,0.0,False
+full_development,,0.1,Gross Profit to Sales,retained,,0.0,False
+full_development,,0.1,Net Income to Stockholder's Equity,retained,,0.06367684034776237,True
+full_development,,0.1,Liability to Equity,retained,,0.0,False
+full_development,,0.1,Degree of Financial Leverage (DFL),retained,,0.012656168753575217,True
+full_development,,0.1,Interest Coverage Ratio (Interest expense to EBIT),retained,,0.0,False
+full_development,,0.1,Net Income Flag,constant,,,False
+full_development,,0.1,Equity to Liability,retained,,0.0,False
+full_development,,1.0,ROA(C) before interest and depreciation before interest,retained,,-0.22255174206585715,True
+full_development,,1.0,ROA(A) before interest and % after tax,retained,,0.2869322396022537,True
+full_development,,1.0,ROA(B) before interest and depreciation after tax,retained,,-0.14138627165118697,True
+full_development,,1.0,Operating Gross Margin,retained,,0.031797016019541394,True
+full_development,,1.0,Realized Sales Gross Margin,retained,,0.06502410353992849,True
+full_development,,1.0,Operating Profit Rate,retained,,0.0,False
+full_development,,1.0,Pre-tax net Interest Rate,retained,,0.0,False
+full_development,,1.0,After-tax net Interest Rate,retained,,0.0,False
+full_development,,1.0,Non-industry income and expenditure/revenue,retained,,-0.18573594732732127,True
+full_development,,1.0,Continuous interest rate (after tax),retained,,0.0,False
+full_development,,1.0,Operating Expense Rate,retained,,0.0562833913716846,True
+full_development,,1.0,Research and development expense rate,retained,,0.05057767054329342,True
+full_development,,1.0,Cash flow rate,retained,,-0.2737349109798324,True
+full_development,,1.0,Interest-bearing debt interest rate,retained,,0.010719512103074185,True
+full_development,,1.0,Tax rate (A),retained,,-0.06225138960826369,True
+full_development,,1.0,Net Value Per Share (B),retained,,-0.35148492535256826,True
+full_development,,1.0,Net Value Per Share (A),retained,,-0.17549305699989876,True
+full_development,,1.0,Net Value Per Share (C),retained,,0.0,False
+full_development,,1.0,Persistent EPS in the Last Four Seasons,retained,,-0.8879995553217168,True
+full_development,,1.0,Cash Flow Per Share,retained,,0.09655597466388774,True
+full_development,,1.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+full_development,,1.0,Operating Profit Per Share (Yuan ¥),retained,,0.33993893232177486,True
+full_development,,1.0,Per Share Net profit before tax (Yuan ¥),retained,,0.0328066462136383,True
+full_development,,1.0,Realized Sales Gross Profit Growth Rate,retained,,0.12253379600978591,True
+full_development,,1.0,Operating Profit Growth Rate,retained,,-0.2584411243427781,True
+full_development,,1.0,After-tax Net Profit Growth Rate,retained,,0.0,False
+full_development,,1.0,Regular Net Profit Growth Rate,retained,,0.0238716020570756,True
+full_development,,1.0,Continuous Net Profit Growth Rate,retained,,0.09306850325667322,True
+full_development,,1.0,Total Asset Growth Rate,retained,,-0.09406652509616868,True
+full_development,,1.0,Net Value Growth Rate,retained,,0.0,False
+full_development,,1.0,Total Asset Return Growth Rate Ratio,retained,,0.24913532359097645,True
+full_development,,1.0,Cash Reinvestment %,retained,,0.16374609917034424,True
+full_development,,1.0,Current Ratio,retained,,-0.4326590248169156,True
+full_development,,1.0,Quick Ratio,retained,,-0.024031731441312033,True
+full_development,,1.0,Interest Expense Ratio,retained,,0.005220875495876111,True
+full_development,,1.0,Total debt/Total net worth,retained,,0.3848227577441876,True
+full_development,,1.0,Debt ratio %,retained,,0.5527092295532874,True
+full_development,,1.0,Net worth/Assets,retained,,-0.5527092295533286,True
+full_development,,1.0,Long-term fund suitability ratio (A),retained,,0.09291298641005859,True
+full_development,,1.0,Borrowing dependency,retained,,0.5758647305275028,True
+full_development,,1.0,Contingent liabilities/Net worth,retained,,0.0,False
+full_development,,1.0,Operating profit/Paid-in capital,retained,,0.36899710945020503,True
+full_development,,1.0,Net profit before tax/Paid-in capital,retained,,-0.12135651957376732,True
+full_development,,1.0,Inventory and accounts receivable/Net value,retained,,-0.17086465388285998,True
+full_development,,1.0,Total Asset Turnover,retained,,-0.22708624546715822,True
+full_development,,1.0,Accounts Receivable Turnover,retained,,-0.46806428739027983,True
+full_development,,1.0,Average Collection Days,retained,,-0.04867178231493569,True
+full_development,,1.0,Inventory Turnover Rate (times),retained,,-0.044528787661330914,True
+full_development,,1.0,Fixed Assets Turnover Frequency,retained,,0.2539919529431675,True
+full_development,,1.0,Net Worth Turnover Rate (times),retained,,-0.3017803619122451,True
+full_development,,1.0,Revenue per person,retained,,-0.0892909525117651,True
+full_development,,1.0,Operating profit per person,retained,,-0.1435284799269103,True
+full_development,,1.0,Allocation rate per person,retained,,-0.016184557391609008,True
+full_development,,1.0,Working Capital to Total Assets,retained,,0.26190813381118766,True
+full_development,,1.0,Quick Assets/Total Assets,retained,,-0.03244637407482287,True
+full_development,,1.0,Current Assets/Total Assets,retained,,0.021513119125790747,True
+full_development,,1.0,Cash/Total Assets,retained,,-0.45941801316609504,True
+full_development,,1.0,Quick Assets/Current Liability,retained,,-0.02984879274657834,True
+full_development,,1.0,Cash/Current Liability,retained,,0.059659908767143,True
+full_development,,1.0,Current Liability to Assets,retained,,-0.1639328085943057,True
+full_development,,1.0,Operating Funds to Liability,retained,,-0.005405667183740818,True
+full_development,,1.0,Inventory/Working Capital,retained,,-0.07653249238406343,True
+full_development,,1.0,Inventory/Current Liability,retained,,-0.014924788261466437,True
+full_development,,1.0,Current Liabilities/Liability,retained,,0.21932460740293738,True
+full_development,,1.0,Working Capital/Equity,retained,,-0.13272811734147452,True
+full_development,,1.0,Current Liabilities/Equity,retained,,0.0635622327978771,True
+full_development,,1.0,Long-term Liability to Current Assets,retained,,0.029765628685861693,True
+full_development,,1.0,Retained Earnings to Total Assets,retained,,0.4137766903680871,True
+full_development,,1.0,Total income/Total expense,retained,,0.0,False
+full_development,,1.0,Total expense/Assets,retained,,-0.09971693880010084,True
+full_development,,1.0,Current Asset Turnover Rate,retained,,0.11501118716155444,True
+full_development,,1.0,Quick Asset Turnover Rate,retained,,-0.03420375248187205,True
+full_development,,1.0,Working capitcal Turnover Rate,retained,,0.036808166779616444,True
+full_development,,1.0,Cash Turnover Rate,retained,,-0.22114485860637362,True
+full_development,,1.0,Cash Flow to Sales,retained,,0.0,False
+full_development,,1.0,Fixed Assets to Assets,retained,,0.03334905847758254,True
+full_development,,1.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+full_development,,1.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+full_development,,1.0,Equity to Long-term Liability,retained,,-0.1366841251702256,True
+full_development,,1.0,Cash Flow to Total Assets,retained,,-0.004612138977651701,True
+full_development,,1.0,Cash Flow to Liability,retained,,-0.39611374809440236,True
+full_development,,1.0,CFO to Assets,retained,,-0.1759389113333186,True
+full_development,,1.0,Cash Flow to Equity,retained,,-0.04200645873322259,True
+full_development,,1.0,Current Liability to Current Assets,retained,,-0.01244356845662376,True
+full_development,,1.0,Liability-Assets Flag,retained,,-0.20058448178424912,True
+full_development,,1.0,Net Income to Total Assets,retained,,-0.9195428851286215,True
+full_development,,1.0,Total assets to GNP price,retained,,0.005446768050050821,True
+full_development,,1.0,No-credit Interval,retained,,0.027295817035326714,True
+full_development,,1.0,Gross Profit to Sales,retained,,0.03162083995206084,True
+full_development,,1.0,Net Income to Stockholder's Equity,retained,,0.34948450812887166,True
+full_development,,1.0,Liability to Equity,retained,,-0.0816727051404053,True
+full_development,,1.0,Degree of Financial Leverage (DFL),retained,,0.046365934956616776,True
+full_development,,1.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.001633778964419013,True
+full_development,,1.0,Net Income Flag,constant,,,False
+full_development,,1.0,Equity to Liability,retained,,-0.5681349582333459,True
+full_development,,10.0,ROA(C) before interest and depreciation before interest,retained,,-0.2854214420768772,True
+full_development,,10.0,ROA(A) before interest and % after tax,retained,,0.48117046518152956,True
+full_development,,10.0,ROA(B) before interest and depreciation after tax,retained,,-0.18832403922321833,True
+full_development,,10.0,Operating Gross Margin,retained,,0.03457301950296272,True
+full_development,,10.0,Realized Sales Gross Margin,retained,,0.06605141568990225,True
+full_development,,10.0,Operating Profit Rate,retained,,0.1662510971095821,True
+full_development,,10.0,Pre-tax net Interest Rate,retained,,0.030656632039759022,True
+full_development,,10.0,After-tax net Interest Rate,retained,,0.015559732603038405,True
+full_development,,10.0,Non-industry income and expenditure/revenue,retained,,-0.3562077164271966,True
+full_development,,10.0,Continuous interest rate (after tax),retained,,-0.03144130969221964,True
+full_development,,10.0,Operating Expense Rate,retained,,0.058893320014985547,True
+full_development,,10.0,Research and development expense rate,retained,,0.0729999102155236,True
+full_development,,10.0,Cash flow rate,retained,,-0.3208816957756867,True
+full_development,,10.0,Interest-bearing debt interest rate,retained,,0.039757121949654695,True
+full_development,,10.0,Tax rate (A),retained,,-0.06359771667230939,True
+full_development,,10.0,Net Value Per Share (B),retained,,-0.39080051086277245,True
+full_development,,10.0,Net Value Per Share (A),retained,,-0.20304142749845047,True
+full_development,,10.0,Net Value Per Share (C),retained,,-0.015508797641959669,True
+full_development,,10.0,Persistent EPS in the Last Four Seasons,retained,,-0.9648928050314491,True
+full_development,,10.0,Cash Flow Per Share,retained,,0.17634566698558604,True
+full_development,,10.0,Revenue Per Share (Yuan ¥),retained,,0.0,False
+full_development,,10.0,Operating Profit Per Share (Yuan ¥),retained,,0.3893566931757358,True
+full_development,,10.0,Per Share Net profit before tax (Yuan ¥),retained,,0.17498503435636853,True
+full_development,,10.0,Realized Sales Gross Profit Growth Rate,retained,,0.12288418954532147,True
+full_development,,10.0,Operating Profit Growth Rate,retained,,-0.3525709865986889,True
+full_development,,10.0,After-tax Net Profit Growth Rate,retained,,-0.05674918762998068,True
+full_development,,10.0,Regular Net Profit Growth Rate,retained,,0.08675756067802587,True
+full_development,,10.0,Continuous Net Profit Growth Rate,retained,,0.10485208188503124,True
+full_development,,10.0,Total Asset Growth Rate,retained,,-0.1165215385412339,True
+full_development,,10.0,Net Value Growth Rate,retained,,0.0,False
+full_development,,10.0,Total Asset Return Growth Rate Ratio,retained,,0.3413178779682352,True
+full_development,,10.0,Cash Reinvestment %,retained,,0.1685905712397855,True
+full_development,,10.0,Current Ratio,retained,,-0.6139695344816606,True
+full_development,,10.0,Quick Ratio,retained,,-0.04637335289168322,True
+full_development,,10.0,Interest Expense Ratio,retained,,0.006670483302925582,True
+full_development,,10.0,Total debt/Total net worth,retained,,0.463016029748625,True
+full_development,,10.0,Debt ratio %,retained,,0.6418202071475201,True
+full_development,,10.0,Net worth/Assets,retained,,-0.6418202071475335,True
+full_development,,10.0,Long-term fund suitability ratio (A),retained,,0.11738329741366255,True
+full_development,,10.0,Borrowing dependency,retained,,0.6922337472461554,True
+full_development,,10.0,Contingent liabilities/Net worth,retained,,-0.03680566941507009,True
+full_development,,10.0,Operating profit/Paid-in capital,retained,,0.42565282453080755,True
+full_development,,10.0,Net profit before tax/Paid-in capital,retained,,-0.24547760679305938,True
+full_development,,10.0,Inventory and accounts receivable/Net value,retained,,-0.22611231055739936,True
+full_development,,10.0,Total Asset Turnover,retained,,-0.1952327784909158,True
+full_development,,10.0,Accounts Receivable Turnover,retained,,-0.6159337289478084,True
+full_development,,10.0,Average Collection Days,retained,,-0.13302663710713958,True
+full_development,,10.0,Inventory Turnover Rate (times),retained,,-0.05255935790246019,True
+full_development,,10.0,Fixed Assets Turnover Frequency,retained,,0.26154319542832577,True
+full_development,,10.0,Net Worth Turnover Rate (times),retained,,-0.34852027280866876,True
+full_development,,10.0,Revenue per person,retained,,-0.12788278982435275,True
+full_development,,10.0,Operating profit per person,retained,,-0.16653766690039373,True
+full_development,,10.0,Allocation rate per person,retained,,-0.0883642867685432,True
+full_development,,10.0,Working Capital to Total Assets,retained,,0.3235129633629504,True
+full_development,,10.0,Quick Assets/Total Assets,retained,,-0.05078729869775255,True
+full_development,,10.0,Current Assets/Total Assets,retained,,0.042506845732550445,True
+full_development,,10.0,Cash/Total Assets,retained,,-0.4796793049294706,True
+full_development,,10.0,Quick Assets/Current Liability,retained,,-0.06848556967713891,True
+full_development,,10.0,Cash/Current Liability,retained,,0.05937325790921131,True
+full_development,,10.0,Current Liability to Assets,retained,,-0.35285252585431326,True
+full_development,,10.0,Operating Funds to Liability,retained,,-0.03318513749233178,True
+full_development,,10.0,Inventory/Working Capital,retained,,-0.0895466607288701,True
+full_development,,10.0,Inventory/Current Liability,retained,,-0.00845382643236539,True
+full_development,,10.0,Current Liabilities/Liability,retained,,0.33213561224713944,True
+full_development,,10.0,Working Capital/Equity,retained,,-0.14177609418407014,True
+full_development,,10.0,Current Liabilities/Equity,retained,,0.23035767112295008,True
+full_development,,10.0,Long-term Liability to Current Assets,retained,,0.033421886152632044,True
+full_development,,10.0,Retained Earnings to Total Assets,retained,,0.4412991763211312,True
+full_development,,10.0,Total income/Total expense,retained,,0.0,False
+full_development,,10.0,Total expense/Assets,retained,,-0.13859715473813475,True
+full_development,,10.0,Current Asset Turnover Rate,retained,,0.13381793838488926,True
+full_development,,10.0,Quick Asset Turnover Rate,retained,,-0.056770202061067115,True
+full_development,,10.0,Working capitcal Turnover Rate,retained,,0.24834991748683313,True
+full_development,,10.0,Cash Turnover Rate,retained,,-0.23813982402010475,True
+full_development,,10.0,Cash Flow to Sales,retained,,0.13624659635902953,True
+full_development,,10.0,Fixed Assets to Assets,retained,,0.08648722629840055,True
+full_development,,10.0,Current Liability to Liability,duplicate,Current Liabilities/Liability,,False
+full_development,,10.0,Current Liability to Equity,duplicate,Current Liabilities/Equity,,False
+full_development,,10.0,Equity to Long-term Liability,retained,,-0.14691995557364018,True
+full_development,,10.0,Cash Flow to Total Assets,retained,,-0.006324986090430911,True
+full_development,,10.0,Cash Flow to Liability,retained,,-0.43473005650702445,True
+full_development,,10.0,CFO to Assets,retained,,-0.20989412083152942,True
+full_development,,10.0,Cash Flow to Equity,retained,,-0.0472940443044267,True
+full_development,,10.0,Current Liability to Current Assets,retained,,-0.025367439600681337,True
+full_development,,10.0,Liability-Assets Flag,retained,,-0.18817884558328013,True
+full_development,,10.0,Net Income to Total Assets,retained,,-1.0510006063416117,True
+full_development,,10.0,Total assets to GNP price,retained,,0.015548426293675224,True
+full_development,,10.0,No-credit Interval,retained,,0.04274488769292424,True
+full_development,,10.0,Gross Profit to Sales,retained,,0.0343928569572675,True
+full_development,,10.0,Net Income to Stockholder's Equity,retained,,0.37892141056365813,True
+full_development,,10.0,Liability to Equity,retained,,-0.29235449092256627,True
+full_development,,10.0,Degree of Financial Leverage (DFL),retained,,0.05023269216547778,True
+full_development,,10.0,Interest Coverage Ratio (Interest expense to EBIT),retained,,-0.006013771416048582,True
+full_development,,10.0,Net Income Flag,constant,,,False
+full_development,,10.0,Equity to Liability,retained,,-0.695576603549493,True
